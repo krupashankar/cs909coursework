@@ -1,0 +1,47 @@
+
+
+Final classification
+
+> print("Confusion matrix from SVM is:")
+[1] "Confusion matrix from SVM is:"
+> print(result_SVM_final)
+                predicted
+observed         topic.acq topic.corn topic.crude topic.earn topic.grain topic.interest topic.money.fx topic.ship topic.trade topic.wheat
+  topic.acq            623          0           6         17           3              1              0          1           1           0
+  topic.corn             5          0           0          0          50              0              0          0           1           0
+  topic.crude           26          0         126          4          14              3              2          7           0           0
+  topic.earn            14          0           2       1038           0              0              1          0           0           0
+  topic.grain            8          0           0          1         121              0              2          6           9           0
+  topic.interest        15          0           0          2           0             53             39          0           2           0
+  topic.money.fx        20          0           0          1           3             17            105          0           4           0
+  topic.ship             8          0          33          0           4              0              0         41           1           0
+  topic.trade            9          0           1          4           6              1              6          0          88           0
+  topic.wheat            4          0           0          0          64              0              0          2           1           0
+> table3_final<- measures(result_SVM_final)
+> print("Measurements for SVM are:")
+[1] "Measurements for SVM are:"
+> print(table3_final)
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq                623             29            109          1865   0.96      0.85      0.90
+topic.corn                 0             56              0          2570   0.00      0.00      0.00
+topic.crude              126             56             42          2402   0.69      0.75      0.72
+topic.earn              1038             17             29          1542   0.98      0.97      0.97
+topic.grain              121             26            144          2335   0.82      0.46      0.59
+topic.interest            53             58             22          2493   0.48      0.71      0.57
+topic.money.fx           105             45             50          2426   0.70      0.68      0.69
+topic.ship                41             46             16          2523   0.47      0.72      0.57
+topic.trade               88             27             19          2492   0.77      0.82      0.79
+topic.wheat                0             71              0          2555   0.00      0.00      0.00
+> 
+> print("Average Measures of the testing are")
+[1] "Average Measures of the testing are"
+> avg_measure_final <- average_measures(result_SVM_final)
+> avg_measure_final<- rbind(avg_measure_final,c(0,0,0,0,0))
+> colnames(avg_measure_final)<-c("Avg. Micro Recall","Avg. Micro Precision","Avg. Macro Recall","Avg. Macro Precision","Accuracy")
+> print(avg_measure_final)
+                  Avg. Micro Recall Avg. Micro Precision Avg. Macro Recall Avg. Macro Precision Accuracy
+avg_measure_final              0.84                 0.84              0.59                    0     0.84
+                               0.00                 0.00              0.00                    0     0.00
+							   
+							   
+							   
