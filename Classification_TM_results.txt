@@ -1,0 +1,264 @@
+> avg_measure_comb_cf_matrix<- c(0,0,0,0,0)
+> avg_measure_comb_cf_matrix<- rbind(avg_measure_comb_cf_matrix,c(0,0,0,0,0))
+> colnames(avg_measure_comb_cf_matrix)<-c("Avg. Micro Recall","Avg. Micro Precision","Avg. Macro Recall","Avg. Macro Precision","Accuracy")
+> # Printing sum of confusion matrices
+> print("Random Forest summed confusion matrix")
+[1] "Random Forest summed confusion matrix"
+> print(confusion_table_sum_RF)
+                predicted
+observed         topic.acq topic.corn topic.crude topic.earn topic.grain topic.interest topic.money.fx topic.ship topic.trade topic.wheat
+  topic.acq           2059          0          36         55           2              0              4          5           5           0
+  topic.corn             4          5           1          0         198              0              1          1           2          26
+  topic.crude           48          0         400         21           0              3              3         73           8           0
+  topic.earn           100          0          24       3672           0              2              0          1           1           0
+  topic.grain            7        161           5          5         135              0              4         27          16         216
+  topic.interest         8          0           6          2           0            180            214          0           8           0
+  topic.money.fx        16          0           5          6           2            161            407          0          38           0
+  topic.ship            25          0          79          6          37              0              1        126           7           3
+  topic.trade           12          3          11          1          16              4             45          0         361           2
+  topic.wheat            2         19           2          0         250              0              0          2           4           3
+> print(measures(confusion_table_sum_RF))
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq               2059            107            222          7022   0.95      0.90      0.92
+topic.corn                 5            233            183          8989   0.02      0.03      0.02
+topic.crude              400            156            169          8685   0.72      0.70      0.71
+topic.earn              3672            128             96          5514   0.97      0.97      0.97
+topic.grain              135            441            505          8329   0.23      0.21      0.22
+topic.interest           180            238            170          8822   0.43      0.51      0.47
+topic.money.fx           407            228            272          8503   0.64      0.60      0.62
+topic.ship               126            158            109          9017   0.44      0.54      0.48
+topic.trade              361             94             89          8866   0.79      0.80      0.79
+topic.wheat                3            279            247          8881   0.01      0.01      0.01
+> avg_measure_comb_cf_matrix <- average_measures(confusion_table_sum_RF)
+> 
+> print("Naive Bayes summed confusion matrix")
+[1] "Naive Bayes summed confusion matrix"
+> print(confusion_table_sum_NB)
+                predicted
+observed         topic.acq topic.corn topic.crude topic.earn topic.grain topic.interest topic.money.fx topic.ship topic.trade topic.wheat
+  topic.acq           1375         36          51        118           4            397             40         26           9         110
+  topic.corn             0         64           0          0          10             23              0          0           2         139
+  topic.crude           16         44         244          4           1             82              8         86          12          59
+  topic.earn            96         42         110       3249           2            200             31         13          19          38
+  topic.grain            0        134           1          0           9             50              0          8          11         363
+  topic.interest         0          3           0          3           1            362             40          0           6           3
+  topic.money.fx         0          1           0          0           0            443            164          0          19           8
+  topic.ship             4         17          10          0           3             62              6        118           5          59
+  topic.trade            0         21           9          0           3            134             94         15         132          47
+  topic.wheat            0         58           0          0           9             19              0          1           4         191
+> print(measures(confusion_table_sum_NB))
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq               1375            791            116          7128   0.63      0.92      0.75
+topic.corn                64            174            356          8816   0.27      0.15      0.19
+topic.crude              244            312            181          8673   0.44      0.57      0.50
+topic.earn              3249            551            125          5485   0.86      0.96      0.91
+topic.grain                9            567             33          8801   0.02      0.21      0.04
+topic.interest           362             56           1410          7582   0.87      0.20      0.33
+topic.money.fx           164            471            219          8556   0.26      0.43      0.32
+topic.ship               118            166            149          8977   0.42      0.44      0.43
+topic.trade              132            323             87          8868   0.29      0.60      0.39
+topic.wheat              191             91            826          8302   0.68      0.19      0.30
+> avg_measure_comb_cf_matrix <- rbind(avg_measure_comb_cf_matrix,average_measures(confusion_table_sum_NB))
+> 
+> print("SVM summed confusion matrix")
+[1] "SVM summed confusion matrix"
+> print(confusion_table_sum_SVM)
+                predicted
+observed         topic.acq topic.corn topic.crude topic.earn topic.grain topic.interest topic.money.fx topic.ship topic.trade topic.wheat
+  topic.acq           2057          0          25         45          26              0              4          4           5           0
+  topic.corn             3          0           0          1         230              0              1          0           2           1
+  topic.crude           60          0         366         17          25              1              5         73           9           0
+  topic.earn           115          0          13       3650          17              0              1          1           3           0
+  topic.grain           13         75           2          4         379              0              6         25          23          49
+  topic.interest        18          0           2          8          21            166            194          0           9           0
+  topic.money.fx        32          0           0          4          31            115            415          0          38           0
+  topic.ship            18          0          66          4          29              0              3        162           2           0
+  topic.trade           33          0          10          7          20              3             44          0         338           0
+  topic.wheat            1          0           0          0         274              0              0          3           4           0
+> print(measures(confusion_table_sum_SVM))
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq               2057            109            293          6951   0.95      0.88      0.91
+topic.corn                 0            238             75          9097   0.00      0.00      0.00
+topic.crude              366            190            118          8736   0.66      0.76      0.71
+topic.earn              3650            150             90          5520   0.96      0.98      0.97
+topic.grain              379            197            673          8161   0.66      0.36      0.47
+topic.interest           166            252            119          8873   0.40      0.58      0.47
+topic.money.fx           415            220            258          8517   0.65      0.62      0.63
+topic.ship               162            122            106          9020   0.57      0.60      0.58
+topic.trade              338            117             95          8860   0.74      0.78      0.76
+topic.wheat                0            282             50          9078   0.00      0.00      0.00
+> avg_measure_comb_cf_matrix<- rbind(avg_measure_comb_cf_matrix,average_measures(confusion_table_sum_SVM))
+
+
+
+
+
+
+
+
+> rownames(avg_measure_comb_cf_matrix)<- c("RF","NB","SVM")
+> print("Average Measures for summed confusion matrix")
+[1] "Average Measures for summed confusion matrix"
+> print(avg_measure_comb_cf_matrix)
+    Avg. Micro Recall Avg. Micro Precision Avg. Macro Recall Avg. Macro Precision Accuracy
+RF               0.78                 0.78              0.52                 0.53     0.78
+NB               0.63                 0.63              0.47                 0.47     0.63
+SVM              0.80                 0.80              0.56                 0.56     0.80
+
+
+
+
+
+
+
+ print("***********************   SLIDES STYLE - Class wise  **********************************")
+[1] "***********************   SLIDES STYLE - Class wise  **********************************"
+> # Sum all the tables for adding the class wise measures across the 10 folds.  Then average it.
+> # ***********************************************************************************************
+> for(i in 1:10)
++ {
++   
++   if(i==1)
++   {
++     rf_total2<- rf_total[[i]]
++     nb_total2<- nb_total[[i]]
++     svm_total2<-svm_total[[i]]
++   }
++   else{
++     rf_total2<- rf_total2 +rf_total[[i]]
++     nb_total2<- nb_total2 +nb_total[[i]]
++     svm_total2<- svm_total2 +svm_total[[i]]
++   }
++ }
+> 
+> rf_total2<- rf_total2/10
+> nb_total2<- nb_total2/10
+> svm_total2<- svm_total2/10
+> 
+> print("Average measures calculated for each fold")
+[1] "Average measures calculated for each fold"
+> print("Overall Class-Wise Measures")
+[1] "Overall Class-Wise Measures"
+> print("Random Forest:")
+[1] "Random Forest:"
+> print(rf_total2)
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq              205.9           10.7           22.2         702.2  0.950     0.903     0.923
+topic.corn               0.5           23.3           18.3         898.9  0.023     0.023     0.022
+topic.crude             40.0           15.6           16.9         868.5  0.721     0.698     0.703
+topic.earn             367.2           12.8            9.6         551.4  0.966     0.974     0.967
+topic.grain             13.5           44.1           50.5         832.9  0.233     0.209     0.218
+topic.interest          18.0           23.8           17.0         882.2  0.427     0.508     0.461
+topic.money.fx          40.7           22.8           27.2         850.3  0.642     0.598     0.616
+topic.ship              12.6           15.8           10.9         901.7  0.440     0.533     0.476
+topic.trade             36.1            9.4            8.9         886.6  0.792     0.803     0.796
+topic.wheat              0.3           27.9           24.7         888.1  0.012     0.012     0.011
+> cat("\n")
+
+> cat("\n")
+
+> print("Naive Bayes:")
+[1] "Naive Bayes:"
+> print(nb_total2)
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq              137.5           79.1           11.6         712.8  0.633     0.923     0.751
+topic.corn               6.4           17.4           35.6         881.6  0.270     0.159     0.194
+topic.crude             24.4           31.2           18.1         867.3  0.433     0.577     0.491
+topic.earn             324.9           55.1           12.5         548.5  0.854     0.963     0.904
+topic.grain              0.9           56.7            3.3         880.1  0.017     0.234     0.033
+topic.interest          36.2            5.6          141.0         758.2  0.862     0.206     0.330
+topic.money.fx          16.4           47.1           21.9         855.6  0.255     0.430     0.319
+topic.ship              11.8           16.6           14.9         897.7  0.418     0.447     0.428
+topic.trade             13.2           32.3            8.7         886.8  0.291     0.616     0.390
+topic.wheat             19.1            9.1           82.6         830.2  0.674     0.187     0.291
+> cat("\n")
+
+> cat("\n")
+
+> print("Support Vector Machine:")
+[1] "Support Vector Machine:"
+> print(svm_total2)
+               True Positive False Negative False Positive True Negative recall precision f_measure
+topic.acq              205.7           10.9           29.3         695.1  0.949     0.875     0.908
+topic.corn               0.0           23.8            7.5         909.7  0.000     0.000     0.000
+topic.crude             36.6           19.0           11.8         873.6  0.665     0.754     0.699
+topic.earn             365.0           15.0            9.0         552.0  0.960     0.976     0.964
+topic.grain             37.9           19.7           67.3         816.1  0.660     0.358     0.463
+topic.interest          16.6           25.2           11.9         887.3  0.393     0.574     0.461
+topic.money.fx          41.5           22.0           25.8         851.7  0.657     0.615     0.633
+topic.ship              16.2           12.2           10.6         902.0  0.567     0.597     0.575
+topic.trade             33.8           11.7            9.5         886.0  0.741     0.780     0.754
+topic.wheat              0.0           28.2            5.0         907.8  0.000     0.000     0.000
+> cat("\n")
+
+> cat("\n")
+
+
+
+
+
+
+
+
+
+
+
+
+> print("*****************   SLIDES STYLE - Overall  **********************************")
+[1] "*****************   SLIDES STYLE - Overall  **********************************"
+> print("Average measures calculated for each fold")
+[1] "Average measures calculated for each fold"
+> print("Overall Average Measures")
+[1] "Overall Average Measures"
+> print(measures_table)
+        RF_uR RF_uP RF_MR RF_MP RF_Acc NB_uR NB_uP NB_MR NB_MP NB_Acc SVM_uR SVM_uP SVM_MR SVM_MP SVM_Acc
+Fold_1   0.78  0.78  0.53  0.54   0.78  0.60  0.60  0.47  0.46   0.60   0.79   0.79   0.57   0.57    0.79
+Fold_2   0.79  0.79  0.52  0.53   0.79  0.60  0.60  0.45  0.44   0.60   0.82   0.82   0.56   0.55    0.82
+Fold_3   0.79  0.79  0.56  0.57   0.79  0.62  0.62  0.49  0.48   0.62   0.82   0.82   0.60   0.59    0.82
+Fold_4   0.77  0.77  0.51  0.51   0.77  0.66  0.66  0.50  0.48   0.66   0.79   0.79   0.54   0.53    0.79
+Fold_5   0.78  0.78  0.52  0.52   0.78  0.64  0.64  0.47  0.56   0.64   0.79   0.79   0.57   0.56    0.79
+Fold_6   0.79  0.79  0.52  0.51   0.79  0.63  0.63  0.47  0.46   0.63   0.81   0.81   0.55   0.53    0.81
+Fold_7   0.78  0.78  0.52  0.54   0.78  0.64  0.64  0.49  0.52   0.64   0.79   0.79   0.56   0.56    0.79
+Fold_8   0.78  0.78  0.52  0.52   0.78  0.61  0.61  0.46  0.00   0.61   0.80   0.80   0.57   0.56    0.80
+Fold_9   0.77  0.77  0.50  0.51   0.77  0.65  0.65  0.48  0.48   0.65   0.79   0.79   0.54   0.54    0.79
+Fold_10  0.80  0.80  0.51  0.51   0.80  0.63  0.63  0.43  0.44   0.63   0.81   0.81   0.54   0.54    0.81
+
+
+
+
+
+
+
+
+
+ # Calculate the confidence interval for the accuracy
+> 
+> intervals_rf<- calc_CI(measures_table[,5])
+> intervals_nb<- calc_CI(measures_table[,10])
+> intervals_svm<- calc_CI(measures_table[,15])
+> 
+> print("Random forest")
+[1] "Random forest"
+> print(intervals_rf)
+           50%       68%       80%       90%       95%       98%      99%
+from 0.7766438 0.7735132 0.7708569 0.7674416 0.7644058 0.7608957 0.758524
+to   0.7893562 0.7924868 0.7951431 0.7985584 0.8015942 0.8051043 0.807476
+> print("Naive Bayes")
+[1] "Naive Bayes"
+> print(intervals_nb)
+           50%       68%       80%      90%       95%       98%       99%
+from 0.6143055 0.6075604 0.6018373 0.594479 0.5879384 0.5803757 0.5752658
+to   0.6416945 0.6484396 0.6541627 0.661521 0.6680616 0.6756243 0.6807342
+> print("SVM")
+[1] "SVM"
+> print(intervals_svm)
+           50%       68%       80%       90%      95%       98%       99%
+from 0.7923792 0.7881332 0.7845304 0.7798984 0.775781 0.7710203 0.7678036
+to   0.8096208 0.8138668 0.8174696 0.8221016 0.826219 0.8309797 0.8341964
+
+
+
+
+
+
+
