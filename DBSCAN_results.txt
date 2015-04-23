@@ -1,0 +1,1502 @@
+ Performing DBSCAN clustering with EPS =  0.4  and MinPts =  5
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 5 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 4 ;Size = ; 70 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 5 ;Size = ; 24 ;common tag; topic.earn  
+china complete date distribution div dividend east eight extraordinary includes
+ Cluster k = ; 6 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 92 ;common tag; topic.earn  
+adjust assets attack avg china complete date declare discontinue distribution
+ Cluster k = ; 8 ;Size = ; 50 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 9 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 10 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 12 ;Size = ; 6 ;common tag; topic.acq  
+distribution eight includes june mths pay payable principle prior qtr
+ Cluster k = ; 13 ;Size = ; 27 ;common tag; topic.ship  
+avg complete discontinue distribution div exclude extraordinary french industries july
+ Cluster k = ; 14 ;Size = ; 93 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare discontinue
+ Cluster k = ; 15 ;Size = ; 171 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 16 ;Size = ; 38 ;common tag; topic.earn  
+adjust august avg complete date declare disclose discontinue div dividend
+ Cluster k = ; 17 ;Size = ; 17 ;common tag; topic.earn  
+attack august avg china complete date declare discontinue div dividend
+ Cluster k = ; 18 ;Size = ; 7 ;common tag; topic.earn  
+div dividend division extraordinary industries item name payable prefer pretax
+ Cluster k = ; 19 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 20 ;Size = ; 11 ;common tag; topic.crude  
+complete declare distribution div dividend division eight exclude includes june
+ Cluster k = ; 21 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 22 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 23 ;Size = ; 21 ;common tag; topic.crude  
+attack august avg delivery distribution div dividend east effective eight
+ Cluster k = ; 24 ;Size = ; 18 ;common tag; topic.earn  
+avg complete declare discontinue distribution dividend eight excludes extraordinary includes
+ Cluster k = ; 25 ;Size = ; 35 ;common tag; topic.earn  
+avg china date declare distribution div dividend division effective eight
+ Cluster k = ; 26 ;Size = ; 11 ;common tag; topic.crude  
+china disclose div eight french gulf industries iran july merger
+ Cluster k = ; 27 ;Size = ; 92 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery disclose
+ Cluster k = ; 28 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 29 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 30 ;Size = ; 5 ;common tag; topic.grain  
+complete discontinue distribution div division excludes extraordinary nine oper pay
+ Cluster k = ; 31 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 32 ;Size = ; 23 ;common tag; topic.acq  
+adjust avg declare disclose discontinue div dividend effective eight equipment
+ Cluster k = ; 33 ;Size = ; 21 ;common tag; topic.money.fx  
+avg china complete declare delivery disclose distribution div division eight
+ Cluster k = ; 34 ;Size = ; 13 ;common tag; topic.crude  
+adjust august avg china declare delivery discontinue distribution div dividend
+ Cluster k = ; 35 ;Size = ; 10 ;common tag; topic.grain  
+avg delivery effective eight england gulf july morning name nine
+ Cluster k = ; 36 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 37 ;Size = ; 37 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 38 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 39 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 40 ;Size = ; 13 ;common tag; topic.trade  
+attack avg china complete declare dividend effective eight equipment gulf
+ Cluster k = ; 41 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 42 ;Size = ; 11 ;common tag; topic.ship  
+adjust date effective equipment exclude extraordinary french gulf industries item
+ Cluster k = ; 43 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 44 ;Size = ; 12 ;common tag; topic.earn  
+assets avg china eight england excludes extraordinary includes insurance june
+ Cluster k = ; 45 ;Size = ; 25 ;common tag; topic.acq  
+adjust august avg complete declare div dividend division east effective
+ Cluster k = ; 46 ;Size = ; 15 ;common tag; topic.earn  
+attack august avg china complete declare delivery distribution dividend equipment
+ Cluster k = ; 47 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 48 ;Size = ; 10 ;common tag; topic.earn  
+adjust avg complete date declare delivery dividend excludes includes oper
+ Cluster k = ; 49 ;Size = ; 26 ;common tag; topic.earn  
+avg complete declare delivery div dividend division east effective equipment
+ Cluster k = ; 50 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 51 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 52 ;Size = ; 28 ;common tag; topic.corn  
+avg complete declare discontinue div dividend division effective eight equipment
+ Cluster k = ; 53 ;Size = ; 34 ;common tag; topic.earn  
+adjust avg complete date delivery disclose discontinue distribution div dividend
+ Cluster k = ; 54 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 55 ;Size = ; 6 ;common tag; topic.trade  
+adjust avg complete div division effective excludes letter name oper
+ Cluster k = ; 56 ;Size = ; 8 ;common tag; topic.earn  
+avg complete date includes letter merger morning principle revs seven
+ Cluster k = ; 57 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 58 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 59 ;Size = ; 7 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 60 ;Size = ; 18 ;common tag; topic.acq  
+avg date declare discontinue div dividend east eight equipment exclude
+ Cluster k = ; 61 ;Size = ; 19 ;common tag; topic.acq  
+august avg china complete disclose discontinue dividend east england exclude
+ Cluster k = ; 62 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 63 ;Size = ; 10 ;common tag; topic.acq  
+distribution div division effective eight equipment extraordinary industries letter merger
+ Cluster k = ; 64 ;Size = ; 12 ;common tag; topic.earn  
+attack avg complete discontinue div england june letter maize mths
+ Cluster k = ; 65 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 66 ;Size = ; 26 ;common tag; topic.acq  
+date discontinue div dividend division east effective french gulf industries
+ Cluster k = ; 67 ;Size = ; 11 ;common tag; topic.crude  
+adjust attack avg china disclose east effective eight england french
+ Cluster k = ; 68 ;Size = ; 6 ;common tag; topic.earn  
+adjust complete dividend eight holder industries merger nine pay prefer
+ Cluster k = ; 69 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 70 ;Size = ; 28 ;common tag; topic.grain  
+complete date declare delivery disclose distribution div dividend division effective
+ Cluster k = ; 71 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 72 ;Size = ; 18 ;common tag; topic.acq  
+adjust avg china declare delivery distribution div dividend eight extraordinary
+ Cluster k = ; 73 ;Size = ; 9 ;common tag; topic.earn  
+complete div effective holder merger nine pay prefer prior qtly
+ Cluster k = ; 74 ;Size = ; 30 ;common tag; topic.earn  
+adjust august avg complete distribution div dividend effective eight equipment
+ Cluster k = ; 75 ;Size = ; 7 ;common tag; topic.earn  
+declare delivery disclose distribution dividend effective holder industries name pay
+ Cluster k = ; 76 ;Size = ; 19 ;common tag; topic.earn  
+august declare disclose dividend eight england equipment extraordinary holder letter
+ Cluster k = ; 77 ;Size = ; 6 ;common tag; topic.acq  
+avg discontinue eight england excludes mths nine oper port qtr
+ Cluster k = ; 78 ;Size = ; 11 ;common tag; topic.earn  
+avg div exclude extraordinary includes july june letter mths name
+ Cluster k = ; 79 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 80 ;Size = ; 5 ;common tag; topic.earn  
+disclose june letter merger name nine revs seven shipping shr
+ Cluster k = ; 81 ;Size = ; 5 ;common tag; topic.earn  
+extraordinary gulf includes maize morning mths name nine pay pretax
+ Cluster k = ; 82 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 83 ;Size = ; 5 ;common tag; topic.earn  
+discontinue div eight england excludes maize morning oper pay port
+ Cluster k = ; 84 ;Size = ; 31 ;common tag; topic.earn  
+assets avg distribution div dividend east excludes extraordinary french includes
+ Cluster k = ; 85 ;Size = ; 28 ;common tag; topic.grain  
+complete date distribution div dividend east effective eight england extraordinary
+ Cluster k = ; 86 ;Size = ; 6 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 87 ;Size = ; 10 ;common tag; topic.acq  
+avg complete east eight excludes french mths north oper port
+ Cluster k = ; 88 ;Size = ; 11 ;common tag; topic.earn  
+adjust assets china complete date delivery disclose discontinue div eight
+ Cluster k = ; 89 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 90 ;Size = ; 18 ;common tag; topic.earn  
+avg china delivery disclose dividend east effective eight exclude extraordinary
+ Cluster k = ; 91 ;Size = ; 10 ;common tag; topic.earn  
+august complete declare div dividend eight french includes july maize
+ Cluster k = ; 92 ;Size = ; 13 ;common tag; topic.earn  
+avg china complete discontinue div dividend division exclude excludes extraordinary
+ Cluster k = ; 93 ;Size = ; 22 ;common tag; topic.earn  
+avg china delivery disclose div england equipment extraordinary holder includes
+ Cluster k = ; 94 ;Size = ; 5 ;common tag; topic.earn  
+complete div gulf june merger name nil pay port prior
+ Cluster k = ; 95 ;Size = ; 21 ;common tag; topic.acq  
+adjust august avg china date declare delivery disclose discontinue distribution
+ Cluster k = ; 96 ;Size = ; 11 ;common tag; topic.earn  
+attack complete declare discontinue dividend effective eight england exclude excludes
+ Cluster k = ; 97 ;Size = ; 6 ;common tag; topic.corn  
+adjust avg div division french includes pay prior qtly record
+ Cluster k = ; 98 ;Size = ; 11 ;common tag; topic.acq  
+adjust avg complete disclose div eight equipment merger mths name
+ Cluster k = ; 99 ;Size = ; 11 ;common tag; topic.acq  
+adjust attack august avg complete distribution eight excludes extraordinary gulf
+ Cluster k = ; 100 ;Size = ; 5 ;common tag; topic.earn  
+avg dividend gulf june mths name nil nine pay prior
+ Cluster k = ; 101 ;Size = ; 8 ;common tag; topic.acq  
+div dividend equipment industries june maize mths pay payable respectively
+ Cluster k = ; 102 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 103 ;Size = ; 12 ;common tag; topic.acq  
+avg discontinue div dividend effective exclude extraordinary includes item oper
+ Cluster k = ; 104 ;Size = ; 28 ;common tag; topic.acq  
+avg china complete disclose distribution div dividend division eight exclude
+ Cluster k = ; 105 ;Size = ; 6 ;common tag; topic.acq  
+declare delivery dividend holder includes principle prior record revs shipment
+ Cluster k = ; 106 ;Size = ; 31 ;common tag; topic.earn  
+assets august avg date declare delivery disclose discontinue distribution eight
+ Cluster k = ; 107 ;Size = ; 9 ;common tag; topic.earn  
+adjust china disclose dividend england includes june letter pay pretax
+ Cluster k = ; 108 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 109 ;Size = ; 7 ;common tag; topic.earn  
+avg distribution eight includes merger nine oper principle qtr revs
+ Cluster k = ; 110 ;Size = ; 8 ;common tag; topic.earn  
+assets complete declare discontinue dividend eight england includes industries maize
+ Cluster k = ; 111 ;Size = ; 21 ;common tag; topic.earn  
+adjust complete date discontinue div dividend division east eight extraordinary
+ Cluster k = ; 112 ;Size = ; 5 ;common tag; topic.earn  
+avg div dividend eight exclude includes mths name nine oper
+ Cluster k = ; 113 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 114 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 115 ;Size = ; 7 ;common tag; topic.grain  
+august avg disclose div includes insurance july mths nine pay
+ Cluster k = ; 116 ;Size = ; 8 ;common tag; topic.earn  
+adjust complete date div east effective gulf industries letter maize
+ Cluster k = ; 117 ;Size = ; 5 ;common tag; topic.acq  
+adjust avg dividend england gulf iran nil payable prefer qtr
+ Cluster k = ; 118 ;Size = ; 7 ;common tag; topic.earn  
+complete div extraordinary includes pay prior qtly qtr record revs
+ Cluster k = ; 119 ;Size = ; 5 ;common tag; topic.acq  
+avg delivery disclose eight includes letter maize pay port record
+ Cluster k = ; 120 ;Size = ; 7 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 121 ;Size = ; 7 ;common tag; topic.corn  
+complete disclose discontinue distribution div eight extraordinary holder includes industries
+ Cluster k = ; 122 ;Size = ; 22 ;common tag; topic.earn  
+adjust avg china complete declare distribution dividend division east extraordinary
+ Cluster k = ; 123 ;Size = ; 7 ;common tag; topic.earn  
+china complete disclose discontinue div england july merger morning pay
+ Cluster k = ; 124 ;Size = ; 5 ;common tag; topic.earn  
+date discontinue div exclude excludes june oper pay payable prior
+ Cluster k = ; 125 ;Size = ; 9 ;common tag; topic.earn  
+avg discontinue england exclude excludes includes industries july june morning
+ Cluster k = ; 126 ;Size = ; 11 ;common tag; topic.ship  
+adjust discontinue dividend east extraordinary french includes industries item letter
+ Cluster k = ; 127 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 128 ;Size = ; 5 ;common tag; topic.corn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 129 ;Size = ; 5 ;common tag; topic.earn  
+div dividend extraordinary french july june maize name pay prefer
+ Cluster k = ; 130 ;Size = ; 6 ;common tag; topic.corn  
+adjust august avg dividend equipment holder item north pay sales
+ Cluster k = ; 131 ;Size = ; 22 ;common tag; topic.earn  
+complete declare disclose discontinue distribution div dividend division excludes extraordinary
+ Cluster k = ; 132 ;Size = ; 18 ;common tag; topic.acq  
+avg complete date div east england includes insurance letter merger
+ Cluster k = ; 133 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 134 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 135 ;Size = ; 14 ;common tag; topic.ship  
+avg complete declare disclose div dividend effective eight exclude extraordinary
+ Cluster k = ; 136 ;Size = ; 8 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 137 ;Size = ; 24 ;common tag; topic.earn  
+avg delivery disclose distribution div eight equipment exclude excludes extraordinary
+ Cluster k = ; 138 ;Size = ; 11 ;common tag; topic.earn  
+avg complete disclose dividend england excludes extraordinary french item june
+ Cluster k = ; 139 ;Size = ; 5 ;common tag; topic.earn  
+avg effective england july june letter mths name pay principle
+ Cluster k = ; 140 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 141 ;Size = ; 15 ;common tag; topic.crude  
+disclose div east effective equipment june letter mths name nil
+ Cluster k = ; 142 ;Size = ; 6 ;common tag; topic.money.fx  
+august delivery div includes july june merger pay prior qtly
+ Cluster k = ; 143 ;Size = ; 5 ;common tag; topic.acq  
+adjust avg china discontinue dividend east eight england includes iran
+ Cluster k = ; 144 ;Size = ; 5 ;common tag; topic.interest  
+date distribution eight french holder july letter morning payable prior
+ Cluster k = ; 145 ;Size = ; 8 ;common tag; topic.crude  
+complete east effective merger name nil north pretax record revs
+ Cluster k = ; 146 ;Size = ; 11 ;common tag; topic.grain  
+complete dividend east eight exclude extraordinary holder nine oper pay
+ Cluster k = ; 147 ;Size = ; 5 ;common tag; topic.acq  
+august declare distribution dividend england equipment holder july pay payable
+ Cluster k = ; 148 ;Size = ; 12 ;common tag; topic.earn  
+avg china discontinue div exclude gulf includes iran merger mths
+ Cluster k = ; 149 ;Size = ; 5 ;common tag; topic.earn  
+august discontinue england includes merger morning pay prior sales shipment
+ Cluster k = ; 150 ;Size = ; 5 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 151 ;Size = ; 9 ;common tag; topic.acq  
+avg china date declare distribution dividend eight equipment holder industries
+ Cluster k = ; 152 ;Size = ; 7 ;common tag; topic.grain  
+declare discontinue distribution div dividend division effective equipment industries july
+ Cluster k = ; 153 ;Size = ; 15 ;common tag; topic.earn  
+adjust august avg complete declare distribution div dividend eight extraordinary
+ Cluster k = ; 154 ;Size = ; 5 ;common tag; topic.earn  
+declare dividend east holder insurance june name pay payable pretax
+ Cluster k = ; 155 ;Size = ; 10 ;common tag; topic.acq  
+assets avg china date div dividend eight mths nine pay
+ Cluster k = ; 156 ;Size = ; 8 ;common tag; topic.corn  
+avg discontinue div dividend eight includes item mths nine pay
+ Cluster k = ; 157 ;Size = ; 7 ;common tag; topic.earn  
+delivery east exclude extraordinary gulf includes item july morning north
+ Cluster k = ; 158 ;Size = ; 7 ;common tag; topic.earn  
+avg date disclose distribution div eight nine pay payable prior
+ Cluster k = ; 159 ;Size = ; 5 ;common tag; topic.crude  
+avg div dividend includes nine pay prior qtly record revs
+ Cluster k = ; 160 ;Size = ; 6 ;common tag; topic.acq  
+delivery east effective eight insurance morning name prior record seven
+ Cluster k = ; 161 ;Size = ; 5 ;common tag; topic.earn  
+avg declare div dividend june merger nil pay payable prior
+ Cluster k = ; 162 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 163 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 164 ;Size = ; 6 ;common tag; topic.interest  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 165 ;Size = ; 5 ;common tag; topic.acq  
+attack div gulf iran north pay prior qtly qtr record
+ Cluster k = ; 166 ;Size = ; 13 ;common tag; topic.acq  
+attack complete date declare disclose div dividend exclude extraordinary gulf
+ Cluster k = ; 167 ;Size = ; 15 ;common tag; topic.earn  
+avg date div dividend england exclude extraordinary holder industries june
+ Cluster k = ; 168 ;Size = ; 8 ;common tag; topic.grain  
+complete date div england july pay prior qtly record sales
+ Cluster k = ; 169 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 170 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 171 ;Size = ; 5 ;common tag; topic.earn  
+avg complete dividend industries letter revs sales shr shrs split
+ Cluster k = ; 172 ;Size = ; 6 ;common tag; topic.earn  
+declare distribution dividend effective equipment extraordinary holder includes merger pay
+ Cluster k = ; 173 ;Size = ; 5 ;common tag; topic.earn  
+complete division effective eight england june north record ship shipment
+ Cluster k = ; 174 ;Size = ; 7 ;common tag; topic.trade  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 175 ;Size = ; 6 ;common tag; topic.money.fx  
+adjust china complete div nine pay record sales shr split
+ Cluster k = ; 176 ;Size = ; 5 ;common tag; topic.corn  
+avg div effective mths name pay prior qtly record restate
+ Cluster k = ; 177 ;Size = ; 5 ;common tag; topic.earn  
+august avg distribution effective england includes june letter maize nil
+ Cluster k = ; 178 ;Size = ; 5 ;common tag; topic.acq  
+adjust complete div dividend holder july june merger north payable
+ Cluster k = ; 179 ;Size = ; 6 ;common tag; topic.earn  
+avg excludes merger mths oper pay principle prior qtr record
+ Cluster k = ; 180 ;Size = ; 6 ;common tag; topic.money.fx  
+complete declare dividend effective eight french holder maize nine pay
+ Cluster k = ; 181 ;Size = ; 13 ;common tag; topic.crude  
+avg england french includes industries june letter pay port qtr
+ Cluster k = ; 182 ;Size = ; 6 ;common tag; topic.acq  
+adjust assets avg eight extraordinary includes insurance july morning mths
+ Cluster k = ; 183 ;Size = ; 8 ;common tag; topic.corn  
+adjust division england french industries july june merger mths qtr
+ Cluster k = ; 184 ;Size = ; 5 ;common tag; topic.earn  
+complete div dividend industries maize nine pay prefer prior qtly
+ Cluster k = ; 185 ;Size = ; 9 ;common tag; topic.earn  
+assets div dividend eight july nine pay payable port prior
+ Cluster k = ; 186 ;Size = ; 5 ;common tag; topic.trade  
+date div eight extraordinary item morning name nil payable pretax
+ Cluster k = ; 187 ;Size = ; 5 ;common tag; topic.earn  
+adjust div division england excludes insurance name nil oper pay
+ Cluster k = ; 188 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 189 ;Size = ; 5 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 190 ;Size = ; 7 ;common tag; topic.interest  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 191 ;Size = ; 5 ;common tag; topic.corn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 192 ;Size = ; 5 ;common tag; topic.crude  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 193 ;Size = ; 6 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 194 ;Size = ; 9 ;common tag; topic.ship  
+adjust avg complete discontinue eight equipment june mths nine pretax
+ Cluster k = ; 195 ;Size = ; 7 ;common tag; topic.interest  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 196 ;Size = ; 7 ;common tag; topic.money.fx  
+declare dividend exclude excludes extraordinary gulf mths nine oper payable
+ Cluster k = ; 197 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 198 ;Size = ; 7 ;common tag; topic.crude  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 199 ;Size = ; 21 ;common tag; topic.earn  
+adjust assets avg china disclose div dividend east effective eight
+ Cluster k = ; 200 ;Size = ; 9 ;common tag; topic.earn  
+assets avg complete dividend holder nine prefer prior record restate
+ Cluster k = ; 201 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 202 ;Size = ; 5 ;common tag; topic.earn  
+avg declare dividend effective excludes holder nine oper payable principle
+ topic.trade topic.grain topic.money.fx topic.earn topic.earn topic.earn topic.earn topic.earn topic.trade topic.earn topic.acq topic.acq topic.ship topic.earn topic.earn topic.earn topic.earn topic.earn topic.acq topic.crude topic.acq topic.acq topic.crude topic.earn topic.earn topic.crude topic.earn topic.earn topic.acq topic.grain topic.acq topic.acq topic.money.fx topic.crude topic.grain topic.money.fx topic.money.fx topic.grain topic.acq topic.trade topic.acq topic.ship topic.acq topic.earn topic.acq topic.earn topic.acq topic.earn topic.earn topic.acq topic.earn topic.corn topic.earn topic.ship topic.trade topic.earn topic.acq topic.acq topic.earn topic.acq topic.acq topic.acq topic.acq topic.earn topic.earn topic.acq topic.crude topic.earn topic.acq topic.grain topic.earn topic.acq topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.money.fx topic.earn topic.earn topic.grain topic.earn topic.earn topic.grain topic.acq topic.acq topic.earn topic.earn topic.earn topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.corn topic.acq topic.acq topic.earn topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.earn topic.interest topic.earn topic.earn topic.earn topic.earn topic.interest topic.acq topic.grain topic.earn topic.acq topic.earn topic.acq topic.earn topic.corn topic.earn topic.earn topic.earn topic.earn topic.ship topic.acq topic.corn topic.earn topic.corn topic.earn topic.acq topic.acq topic.earn topic.ship topic.acq topic.earn topic.earn topic.earn topic.earn topic.crude topic.money.fx topic.acq topic.interest topic.crude topic.grain topic.acq topic.earn topic.earn topic.grain topic.acq topic.grain topic.earn topic.earn topic.acq topic.corn topic.earn topic.earn topic.crude topic.acq topic.earn topic.earn topic.earn topic.interest topic.acq topic.acq topic.earn topic.grain topic.earn topic.acq topic.earn topic.earn topic.earn topic.trade topic.money.fx topic.corn topic.earn topic.acq topic.earn topic.money.fx topic.crude topic.acq topic.corn topic.earn topic.earn topic.trade topic.earn topic.earn topic.grain topic.interest topic.corn topic.crude topic.grain topic.ship topic.interest topic.money.fx topic.earn topic.crude topic.earn topic.earn topic.earn topic.earn ; 9
+Performing DBSCAN clustering with EPS =  0.6  and MinPts =  5
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 5 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 11 ;common tag; topic.earn  
+assets avg complete div dividend eight equipment extraordinary includes industries
+ Cluster k = ; 4 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 5 ;Size = ; 1527 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 24 ;common tag; topic.earn  
+china complete date distribution div dividend east eight extraordinary includes
+ Cluster k = ; 7 ;Size = ; 716 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 10 ;Size = ; 6 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 12 ;Size = ; 6 ;common tag; topic.acq  
+distribution eight includes june mths pay payable principle prior qtr
+ Cluster k = ; 13 ;Size = ; 27 ;common tag; topic.ship  
+avg complete discontinue distribution div exclude extraordinary french industries july
+ Cluster k = ; 14 ;Size = ; 7 ;common tag; topic.earn  
+div dividend division extraordinary industries item name payable prefer pretax
+ Cluster k = ; 15 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 16 ;Size = ; 11 ;common tag; topic.crude  
+complete declare distribution div dividend division eight exclude includes june
+ Cluster k = ; 17 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 18 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 19 ;Size = ; 21 ;common tag; topic.crude  
+attack august avg delivery distribution div dividend east effective eight
+ Cluster k = ; 20 ;Size = ; 15 ;common tag; topic.crude  
+adjust china declare disclose div eight french gulf includes industries
+ Cluster k = ; 21 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 22 ;Size = ; 5 ;common tag; topic.grain  
+complete discontinue distribution div division excludes extraordinary nine oper pay
+ Cluster k = ; 23 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 24 ;Size = ; 23 ;common tag; topic.acq  
+adjust avg declare disclose discontinue div dividend effective eight equipment
+ Cluster k = ; 25 ;Size = ; 21 ;common tag; topic.money.fx  
+avg china complete declare delivery disclose distribution div division eight
+ Cluster k = ; 26 ;Size = ; 13 ;common tag; topic.crude  
+adjust august avg china declare delivery discontinue distribution div dividend
+ Cluster k = ; 27 ;Size = ; 10 ;common tag; topic.grain  
+avg delivery effective eight england gulf july morning name nine
+ Cluster k = ; 28 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 29 ;Size = ; 65 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 30 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 31 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 32 ;Size = ; 13 ;common tag; topic.trade  
+attack avg china complete declare dividend effective eight equipment gulf
+ Cluster k = ; 33 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 34 ;Size = ; 11 ;common tag; topic.ship  
+adjust date effective equipment exclude extraordinary french gulf industries item
+ Cluster k = ; 35 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 36 ;Size = ; 12 ;common tag; topic.earn  
+assets avg china eight england excludes extraordinary includes insurance june
+ Cluster k = ; 37 ;Size = ; 25 ;common tag; topic.acq  
+adjust august avg complete declare div dividend division east effective
+ Cluster k = ; 38 ;Size = ; 5 ;common tag; topic.corn  
+avg england june morning payable record revs shr shrs split
+ Cluster k = ; 39 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 40 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 41 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 42 ;Size = ; 28 ;common tag; topic.corn  
+avg complete declare discontinue div dividend division effective eight equipment
+ Cluster k = ; 43 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 44 ;Size = ; 6 ;common tag; topic.trade  
+adjust avg complete div division effective excludes letter name oper
+ Cluster k = ; 45 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 46 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 47 ;Size = ; 18 ;common tag; topic.acq  
+avg date declare discontinue div dividend east eight equipment exclude
+ Cluster k = ; 48 ;Size = ; 19 ;common tag; topic.acq  
+august avg china complete disclose discontinue dividend east england exclude
+ Cluster k = ; 49 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 50 ;Size = ; 10 ;common tag; topic.acq  
+distribution div division effective eight equipment extraordinary industries letter merger
+ Cluster k = ; 51 ;Size = ; 12 ;common tag; topic.earn  
+attack avg complete discontinue div england june letter maize mths
+ Cluster k = ; 52 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 53 ;Size = ; 26 ;common tag; topic.acq  
+date discontinue div dividend division east effective french gulf industries
+ Cluster k = ; 54 ;Size = ; 11 ;common tag; topic.crude  
+adjust attack avg china disclose east effective eight england french
+ Cluster k = ; 55 ;Size = ; 9 ;common tag; topic.earn  
+adjust avg div division effective england excludes industries insurance merger
+ Cluster k = ; 56 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 57 ;Size = ; 31 ;common tag; topic.earn  
+august avg declare delivery disclose discontinue distribution div dividend east
+ Cluster k = ; 58 ;Size = ; 28 ;common tag; topic.grain  
+complete date declare delivery disclose distribution div dividend division effective
+ Cluster k = ; 59 ;Size = ; 18 ;common tag; topic.acq  
+adjust avg china declare delivery distribution div dividend eight extraordinary
+ Cluster k = ; 60 ;Size = ; 6 ;common tag; topic.acq  
+avg discontinue eight england excludes mths nine oper port qtr
+ Cluster k = ; 61 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 62 ;Size = ; 5 ;common tag; topic.earn  
+extraordinary gulf includes maize morning mths name nine pay pretax
+ Cluster k = ; 63 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 64 ;Size = ; 28 ;common tag; topic.grain  
+complete date distribution div dividend east effective eight england extraordinary
+ Cluster k = ; 65 ;Size = ; 6 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 66 ;Size = ; 10 ;common tag; topic.acq  
+avg complete east eight excludes french mths north oper port
+ Cluster k = ; 67 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 68 ;Size = ; 21 ;common tag; topic.acq  
+adjust august avg china date declare delivery disclose discontinue distribution
+ Cluster k = ; 69 ;Size = ; 11 ;common tag; topic.earn  
+attack complete declare discontinue dividend effective eight england exclude excludes
+ Cluster k = ; 70 ;Size = ; 6 ;common tag; topic.corn  
+adjust avg div division french includes pay prior qtly record
+ Cluster k = ; 71 ;Size = ; 11 ;common tag; topic.acq  
+adjust avg complete disclose div eight equipment merger mths name
+ Cluster k = ; 72 ;Size = ; 13 ;common tag; topic.corn  
+august avg complete declare distribution div dividend effective england equipment
+ Cluster k = ; 73 ;Size = ; 11 ;common tag; topic.acq  
+adjust attack august avg complete distribution eight excludes extraordinary gulf
+ Cluster k = ; 74 ;Size = ; 8 ;common tag; topic.acq  
+div dividend equipment industries june maize mths pay payable respectively
+ Cluster k = ; 75 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 76 ;Size = ; 12 ;common tag; topic.acq  
+avg discontinue div dividend effective exclude extraordinary includes item oper
+ Cluster k = ; 77 ;Size = ; 28 ;common tag; topic.acq  
+avg china complete disclose distribution div dividend division eight exclude
+ Cluster k = ; 78 ;Size = ; 31 ;common tag; topic.ship  
+adjust attack declare delivery discontinue distribution div dividend east effective
+ Cluster k = ; 79 ;Size = ; 7 ;common tag; topic.earn  
+avg complete div eight includes industries mths nine payable prior
+ Cluster k = ; 80 ;Size = ; 6 ;common tag; topic.acq  
+declare delivery dividend holder includes principle prior record revs shipment
+ Cluster k = ; 81 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 82 ;Size = ; 21 ;common tag; topic.earn  
+adjust complete date discontinue div dividend division east eight extraordinary
+ Cluster k = ; 83 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 84 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 85 ;Size = ; 7 ;common tag; topic.acq  
+avg complete declare disclose effective french maize merger pay shr
+ Cluster k = ; 86 ;Size = ; 7 ;common tag; topic.grain  
+august avg disclose div includes insurance july mths nine pay
+ Cluster k = ; 87 ;Size = ; 5 ;common tag; topic.grain  
+avg date eight industries june letter merger mths nine pay
+ Cluster k = ; 88 ;Size = ; 5 ;common tag; topic.acq  
+adjust avg dividend england gulf iran nil payable prefer qtr
+ Cluster k = ; 89 ;Size = ; 7 ;common tag; topic.earn  
+complete div extraordinary includes pay prior qtly qtr record revs
+ Cluster k = ; 90 ;Size = ; 5 ;common tag; topic.acq  
+avg delivery disclose eight includes letter maize pay port record
+ Cluster k = ; 91 ;Size = ; 7 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 92 ;Size = ; 7 ;common tag; topic.corn  
+complete disclose discontinue distribution div eight extraordinary holder includes industries
+ Cluster k = ; 93 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 94 ;Size = ; 8 ;common tag; topic.corn  
+complete distribution dividend england equipment exclude holder industries letter merger
+ Cluster k = ; 95 ;Size = ; 5 ;common tag; topic.earn  
+div dividend extraordinary french july june maize name pay prefer
+ Cluster k = ; 96 ;Size = ; 6 ;common tag; topic.corn  
+adjust august avg dividend equipment holder item north pay sales
+ Cluster k = ; 97 ;Size = ; 18 ;common tag; topic.acq  
+avg complete date div east england includes insurance letter merger
+ Cluster k = ; 98 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 99 ;Size = ; 14 ;common tag; topic.ship  
+avg complete declare disclose div dividend effective eight exclude extraordinary
+ Cluster k = ; 100 ;Size = ; 8 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 101 ;Size = ; 24 ;common tag; topic.earn  
+avg delivery disclose distribution div eight equipment exclude excludes extraordinary
+ Cluster k = ; 102 ;Size = ; 5 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 103 ;Size = ; 15 ;common tag; topic.crude  
+disclose div east effective equipment june letter mths name nil
+ Cluster k = ; 104 ;Size = ; 6 ;common tag; topic.money.fx  
+august delivery div includes july june merger pay prior qtly
+ Cluster k = ; 105 ;Size = ; 5 ;common tag; topic.acq  
+adjust avg china discontinue dividend east eight england includes iran
+ Cluster k = ; 106 ;Size = ; 5 ;common tag; topic.interest  
+date distribution eight french holder july letter morning payable prior
+ Cluster k = ; 107 ;Size = ; 8 ;common tag; topic.crude  
+complete east effective merger name nil north pretax record revs
+ Cluster k = ; 108 ;Size = ; 11 ;common tag; topic.grain  
+complete dividend east eight exclude extraordinary holder nine oper pay
+ Cluster k = ; 109 ;Size = ; 8 ;common tag; topic.crude  
+avg east gulf holder industries letter morning mths north principle
+ Cluster k = ; 110 ;Size = ; 5 ;common tag; topic.acq  
+august declare distribution dividend england equipment holder july pay payable
+ Cluster k = ; 111 ;Size = ; 12 ;common tag; topic.earn  
+avg china discontinue div exclude gulf includes iran merger mths
+ Cluster k = ; 112 ;Size = ; 5 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 113 ;Size = ; 9 ;common tag; topic.acq  
+avg china date declare distribution dividend eight equipment holder industries
+ Cluster k = ; 114 ;Size = ; 7 ;common tag; topic.grain  
+declare discontinue distribution div dividend division effective equipment industries july
+ Cluster k = ; 115 ;Size = ; 10 ;common tag; topic.acq  
+assets avg china date div dividend eight mths nine pay
+ Cluster k = ; 116 ;Size = ; 8 ;common tag; topic.corn  
+avg discontinue div dividend eight includes item mths nine pay
+ Cluster k = ; 117 ;Size = ; 5 ;common tag; topic.crude  
+avg div dividend includes nine pay prior qtly record revs
+ Cluster k = ; 118 ;Size = ; 6 ;common tag; topic.acq  
+delivery east effective eight insurance morning name prior record seven
+ Cluster k = ; 119 ;Size = ; 9 ;common tag; topic.acq  
+avg complete date disclose discontinue distribution div excludes extraordinary includes
+ Cluster k = ; 120 ;Size = ; 95 ;common tag; topic.ship  
+adjust attack avg china complete date declare delivery disclose discontinue
+ Cluster k = ; 121 ;Size = ; 6 ;common tag; topic.interest  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 122 ;Size = ; 5 ;common tag; topic.acq  
+attack div gulf iran north pay prior qtly qtr record
+ Cluster k = ; 123 ;Size = ; 13 ;common tag; topic.acq  
+attack complete date declare disclose div dividend exclude extraordinary gulf
+ Cluster k = ; 124 ;Size = ; 8 ;common tag; topic.grain  
+complete date div england july pay prior qtly record sales
+ Cluster k = ; 125 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 126 ;Size = ; 5 ;common tag; topic.acq  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 127 ;Size = ; 6 ;common tag; topic.earn  
+avg complete east england exclude oper payable revs shipment shr
+ Cluster k = ; 128 ;Size = ; 7 ;common tag; topic.trade  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 129 ;Size = ; 6 ;common tag; topic.money.fx  
+adjust china complete div nine pay record sales shr split
+ Cluster k = ; 130 ;Size = ; 5 ;common tag; topic.corn  
+avg div effective mths name pay prior qtly record restate
+ Cluster k = ; 131 ;Size = ; 5 ;common tag; topic.acq  
+adjust complete div dividend holder july june merger north payable
+ Cluster k = ; 132 ;Size = ; 5 ;common tag; topic.earn  
+adjust august declare div insurance june maize pay pretax prior
+ Cluster k = ; 133 ;Size = ; 6 ;common tag; topic.money.fx  
+complete declare dividend effective eight french holder maize nine pay
+ Cluster k = ; 134 ;Size = ; 6 ;common tag; topic.acq  
+adjust assets avg eight extraordinary includes insurance july morning mths
+ Cluster k = ; 135 ;Size = ; 8 ;common tag; topic.corn  
+adjust division england french industries july june merger mths qtr
+ Cluster k = ; 136 ;Size = ; 5 ;common tag; topic.trade  
+date div eight extraordinary item morning name nil payable pretax
+ Cluster k = ; 137 ;Size = ; 5 ;common tag; topic.crude  
+disclose div division item mths oper pay prior qtly qtr
+ Cluster k = ; 138 ;Size = ; 5 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 139 ;Size = ; 7 ;common tag; topic.interest  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 140 ;Size = ; 5 ;common tag; topic.corn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 141 ;Size = ; 5 ;common tag; topic.crude  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 142 ;Size = ; 6 ;common tag; topic.grain  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 143 ;Size = ; 5 ;common tag; topic.earn  
+avg div effective eight exclude extraordinary nil oper pay prior
+ Cluster k = ; 144 ;Size = ; 7 ;common tag; topic.interest  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 145 ;Size = ; 7 ;common tag; topic.money.fx  
+declare dividend exclude excludes extraordinary gulf mths nine oper payable
+ Cluster k = ; 146 ;Size = ; 5 ;common tag; topic.acq  
+attack china disclose discontinue dividend eight excludes gulf includes oper
+ Cluster k = ; 147 ;Size = ; 4 ;common tag; topic.earn  
+avg div includes name north pretax qtr revs ship shipment
+ Cluster k = ; 148 ;Size = ; 7 ;common tag; topic.crude  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 149 ;Size = ; 5 ;common tag; topic.crude  
+adjust assets attack august avg china complete date declare delivery
+ topic.trade topic.grain topic.earn topic.money.fx topic.earn topic.earn topic.earn topic.earn topic.trade topic.earn topic.acq topic.acq topic.ship topic.earn topic.acq topic.crude topic.acq topic.acq topic.crude topic.crude topic.acq topic.grain topic.acq topic.acq topic.money.fx topic.crude topic.grain topic.money.fx topic.money.fx topic.grain topic.acq topic.trade topic.acq topic.ship topic.acq topic.earn topic.acq topic.corn topic.acq topic.acq topic.earn topic.corn topic.ship topic.trade topic.acq topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.earn topic.acq topic.crude topic.earn topic.acq topic.earn topic.grain topic.acq topic.acq topic.money.fx topic.earn topic.grain topic.grain topic.acq topic.acq topic.earn topic.acq topic.earn topic.corn topic.acq topic.corn topic.acq topic.acq topic.acq topic.acq topic.acq topic.ship topic.earn topic.acq topic.interest topic.earn topic.interest topic.acq topic.acq topic.grain topic.grain topic.acq topic.earn topic.acq topic.earn topic.corn topic.acq topic.corn topic.earn topic.corn topic.acq topic.acq topic.ship topic.acq topic.earn topic.earn topic.crude topic.money.fx topic.acq topic.interest topic.crude topic.grain topic.crude topic.acq topic.earn topic.grain topic.acq topic.grain topic.acq topic.corn topic.crude topic.acq topic.acq topic.ship topic.interest topic.acq topic.acq topic.grain topic.acq topic.acq topic.earn topic.trade topic.money.fx topic.corn topic.acq topic.earn topic.money.fx topic.acq topic.corn topic.trade topic.crude topic.grain topic.interest topic.corn topic.crude topic.grain topic.earn topic.interest topic.money.fx topic.acq topic.earn topic.crude topic.crude ; 9
+Performing DBSCAN clustering with EPS =  0.9  and MinPts =  5
+ Cluster k = ; 1 ;Size = ; 7636 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  2  and MinPts =  5
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  5  and MinPts =  5
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  10  and MinPts =  5
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  0.4  and MinPts =  10
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 3 ;Size = ; 70 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 4 ;Size = ; 24 ;common tag; topic.earn  
+china complete date distribution div dividend east eight extraordinary includes
+ Cluster k = ; 5 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 89 ;common tag; topic.earn  
+adjust assets attack avg china complete date declare discontinue distribution
+ Cluster k = ; 7 ;Size = ; 50 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 8 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 9 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 27 ;common tag; topic.ship  
+avg complete discontinue distribution div exclude extraordinary french industries july
+ Cluster k = ; 11 ;Size = ; 93 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare discontinue
+ Cluster k = ; 12 ;Size = ; 171 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 38 ;common tag; topic.earn  
+adjust august avg complete date declare disclose discontinue div dividend
+ Cluster k = ; 14 ;Size = ; 17 ;common tag; topic.earn  
+attack august avg china complete date declare discontinue div dividend
+ Cluster k = ; 15 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 16 ;Size = ; 11 ;common tag; topic.crude  
+complete declare distribution div dividend division eight exclude includes june
+ Cluster k = ; 17 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 18 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 19 ;Size = ; 21 ;common tag; topic.crude  
+attack august avg delivery distribution div dividend east effective eight
+ Cluster k = ; 20 ;Size = ; 18 ;common tag; topic.earn  
+avg complete declare discontinue distribution dividend eight excludes extraordinary includes
+ Cluster k = ; 21 ;Size = ; 35 ;common tag; topic.earn  
+avg china date declare distribution div dividend division effective eight
+ Cluster k = ; 22 ;Size = ; 11 ;common tag; topic.crude  
+china disclose div eight french gulf industries iran july merger
+ Cluster k = ; 23 ;Size = ; 85 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery disclose
+ Cluster k = ; 24 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 25 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 26 ;Size = ; 23 ;common tag; topic.acq  
+adjust avg declare disclose discontinue div dividend effective eight equipment
+ Cluster k = ; 27 ;Size = ; 21 ;common tag; topic.money.fx  
+avg china complete declare delivery disclose distribution div division eight
+ Cluster k = ; 28 ;Size = ; 13 ;common tag; topic.crude  
+adjust august avg china declare delivery discontinue distribution div dividend
+ Cluster k = ; 29 ;Size = ; 10 ;common tag; topic.grain  
+avg delivery effective eight england gulf july morning name nine
+ Cluster k = ; 30 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 31 ;Size = ; 37 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 32 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 33 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 34 ;Size = ; 13 ;common tag; topic.trade  
+attack avg china complete declare dividend effective eight equipment gulf
+ Cluster k = ; 35 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 36 ;Size = ; 11 ;common tag; topic.ship  
+adjust date effective equipment exclude extraordinary french gulf industries item
+ Cluster k = ; 37 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 38 ;Size = ; 12 ;common tag; topic.earn  
+assets avg china eight england excludes extraordinary includes insurance june
+ Cluster k = ; 39 ;Size = ; 25 ;common tag; topic.acq  
+adjust august avg complete declare div dividend division east effective
+ Cluster k = ; 40 ;Size = ; 15 ;common tag; topic.earn  
+attack august avg china complete declare delivery distribution dividend equipment
+ Cluster k = ; 41 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 42 ;Size = ; 26 ;common tag; topic.earn  
+avg complete declare delivery div dividend division east effective equipment
+ Cluster k = ; 43 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 44 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 45 ;Size = ; 28 ;common tag; topic.corn  
+avg complete declare discontinue div dividend division effective eight equipment
+ Cluster k = ; 46 ;Size = ; 34 ;common tag; topic.earn  
+adjust avg complete date delivery disclose discontinue distribution div dividend
+ Cluster k = ; 47 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 48 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 49 ;Size = ; 18 ;common tag; topic.acq  
+avg date declare discontinue div dividend east eight equipment exclude
+ Cluster k = ; 50 ;Size = ; 19 ;common tag; topic.acq  
+august avg china complete disclose discontinue dividend east england exclude
+ Cluster k = ; 51 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 52 ;Size = ; 10 ;common tag; topic.acq  
+distribution div division effective eight equipment extraordinary industries letter merger
+ Cluster k = ; 53 ;Size = ; 12 ;common tag; topic.earn  
+attack avg complete discontinue div england june letter maize mths
+ Cluster k = ; 54 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 55 ;Size = ; 26 ;common tag; topic.acq  
+date discontinue div dividend division east effective french gulf industries
+ Cluster k = ; 56 ;Size = ; 11 ;common tag; topic.crude  
+adjust attack avg china disclose east effective eight england french
+ Cluster k = ; 57 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 58 ;Size = ; 28 ;common tag; topic.grain  
+complete date declare delivery disclose distribution div dividend division effective
+ Cluster k = ; 59 ;Size = ; 18 ;common tag; topic.acq  
+adjust avg china declare delivery distribution div dividend eight extraordinary
+ Cluster k = ; 60 ;Size = ; 28 ;common tag; topic.earn  
+adjust august avg complete distribution div dividend effective eight extraordinary
+ Cluster k = ; 61 ;Size = ; 19 ;common tag; topic.earn  
+august declare disclose dividend eight england equipment extraordinary holder letter
+ Cluster k = ; 62 ;Size = ; 11 ;common tag; topic.earn  
+avg div exclude extraordinary includes july june letter mths name
+ Cluster k = ; 63 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 64 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 65 ;Size = ; 31 ;common tag; topic.earn  
+assets avg distribution div dividend east excludes extraordinary french includes
+ Cluster k = ; 66 ;Size = ; 28 ;common tag; topic.grain  
+complete date distribution div dividend east effective eight england extraordinary
+ Cluster k = ; 67 ;Size = ; 10 ;common tag; topic.acq  
+avg complete east eight excludes french mths north oper port
+ Cluster k = ; 68 ;Size = ; 18 ;common tag; topic.earn  
+avg china delivery disclose dividend east effective eight exclude extraordinary
+ Cluster k = ; 69 ;Size = ; 13 ;common tag; topic.earn  
+avg china complete discontinue div dividend division exclude excludes extraordinary
+ Cluster k = ; 70 ;Size = ; 22 ;common tag; topic.earn  
+avg china delivery disclose div england equipment extraordinary holder includes
+ Cluster k = ; 71 ;Size = ; 21 ;common tag; topic.acq  
+adjust august avg china date declare delivery disclose discontinue distribution
+ Cluster k = ; 72 ;Size = ; 11 ;common tag; topic.earn  
+attack complete declare discontinue dividend effective eight england exclude excludes
+ Cluster k = ; 73 ;Size = ; 11 ;common tag; topic.acq  
+adjust avg complete disclose div eight equipment merger mths name
+ Cluster k = ; 74 ;Size = ; 11 ;common tag; topic.acq  
+adjust attack august avg complete distribution eight excludes extraordinary gulf
+ Cluster k = ; 75 ;Size = ; 12 ;common tag; topic.acq  
+avg discontinue div dividend effective exclude extraordinary includes item oper
+ Cluster k = ; 76 ;Size = ; 28 ;common tag; topic.acq  
+avg china complete disclose distribution div dividend division eight exclude
+ Cluster k = ; 77 ;Size = ; 31 ;common tag; topic.earn  
+assets august avg date declare delivery disclose discontinue distribution eight
+ Cluster k = ; 78 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 79 ;Size = ; 21 ;common tag; topic.earn  
+adjust complete date discontinue div dividend division east eight extraordinary
+ Cluster k = ; 80 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 81 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 82 ;Size = ; 22 ;common tag; topic.earn  
+adjust avg china complete declare distribution dividend division east extraordinary
+ Cluster k = ; 83 ;Size = ; 11 ;common tag; topic.ship  
+adjust discontinue dividend east extraordinary french includes industries item letter
+ Cluster k = ; 84 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 85 ;Size = ; 22 ;common tag; topic.earn  
+complete declare disclose discontinue distribution div dividend division excludes extraordinary
+ Cluster k = ; 86 ;Size = ; 18 ;common tag; topic.acq  
+avg complete date div east england includes insurance letter merger
+ Cluster k = ; 87 ;Size = ; 14 ;common tag; topic.ship  
+avg complete declare disclose div dividend effective eight exclude extraordinary
+ Cluster k = ; 88 ;Size = ; 24 ;common tag; topic.earn  
+avg delivery disclose distribution div eight equipment exclude excludes extraordinary
+ Cluster k = ; 89 ;Size = ; 11 ;common tag; topic.earn  
+avg complete disclose dividend england excludes extraordinary french item june
+ Cluster k = ; 90 ;Size = ; 15 ;common tag; topic.crude  
+disclose div east effective equipment june letter mths name nil
+ Cluster k = ; 91 ;Size = ; 11 ;common tag; topic.grain  
+complete dividend east eight exclude extraordinary holder nine oper pay
+ Cluster k = ; 92 ;Size = ; 12 ;common tag; topic.earn  
+avg china discontinue div exclude gulf includes iran merger mths
+ Cluster k = ; 93 ;Size = ; 15 ;common tag; topic.earn  
+adjust august avg complete declare distribution div dividend eight extraordinary
+ Cluster k = ; 94 ;Size = ; 10 ;common tag; topic.acq  
+assets avg china date div dividend eight mths nine pay
+ Cluster k = ; 95 ;Size = ; 13 ;common tag; topic.acq  
+attack complete date declare disclose div dividend exclude extraordinary gulf
+ Cluster k = ; 96 ;Size = ; 15 ;common tag; topic.earn  
+avg date div dividend england exclude extraordinary holder industries june
+ Cluster k = ; 97 ;Size = ; 13 ;common tag; topic.crude  
+avg england french includes industries june letter pay port qtr
+ Cluster k = ; 98 ;Size = ; 21 ;common tag; topic.earn  
+adjust assets avg china disclose div dividend east effective eight
+ topic.trade topic.money.fx topic.earn topic.earn topic.earn topic.earn topic.earn topic.trade topic.acq topic.ship topic.earn topic.earn topic.earn topic.earn topic.acq topic.crude topic.acq topic.acq topic.crude topic.earn topic.earn topic.crude topic.earn topic.acq topic.acq topic.acq topic.money.fx topic.crude topic.grain topic.money.fx topic.money.fx topic.grain topic.acq topic.trade topic.acq topic.ship topic.acq topic.earn topic.acq topic.earn topic.acq topic.earn topic.acq topic.earn topic.corn topic.earn topic.ship topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.earn topic.acq topic.crude topic.acq topic.grain topic.acq topic.earn topic.earn topic.earn topic.money.fx topic.grain topic.earn topic.grain topic.acq topic.earn topic.earn topic.earn topic.acq topic.earn topic.acq topic.acq topic.acq topic.acq topic.earn topic.interest topic.earn topic.interest topic.acq topic.earn topic.ship topic.acq topic.earn topic.acq topic.ship topic.earn topic.earn topic.crude topic.grain topic.earn topic.earn topic.acq topic.acq topic.earn topic.crude topic.earn ; 9
+Performing DBSCAN clustering with EPS =  0.6  and MinPts =  10
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 3 ;Size = ; 1448 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 24 ;common tag; topic.earn  
+china complete date distribution div dividend east eight extraordinary includes
+ Cluster k = ; 5 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 673 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 8 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 9 ;Size = ; 27 ;common tag; topic.ship  
+avg complete discontinue distribution div exclude extraordinary french industries july
+ Cluster k = ; 10 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 11 ;Size = ; 11 ;common tag; topic.crude  
+complete declare distribution div dividend division eight exclude includes june
+ Cluster k = ; 12 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 13 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 14 ;Size = ; 21 ;common tag; topic.crude  
+attack august avg delivery distribution div dividend east effective eight
+ Cluster k = ; 15 ;Size = ; 15 ;common tag; topic.crude  
+adjust china declare disclose div eight french gulf includes industries
+ Cluster k = ; 16 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 17 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 18 ;Size = ; 23 ;common tag; topic.acq  
+adjust avg declare disclose discontinue div dividend effective eight equipment
+ Cluster k = ; 19 ;Size = ; 21 ;common tag; topic.money.fx  
+avg china complete declare delivery disclose distribution div division eight
+ Cluster k = ; 20 ;Size = ; 13 ;common tag; topic.crude  
+adjust august avg china declare delivery discontinue distribution div dividend
+ Cluster k = ; 21 ;Size = ; 10 ;common tag; topic.grain  
+avg delivery effective eight england gulf july morning name nine
+ Cluster k = ; 22 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 23 ;Size = ; 58 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 24 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 25 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 26 ;Size = ; 13 ;common tag; topic.trade  
+attack avg china complete declare dividend effective eight equipment gulf
+ Cluster k = ; 27 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 28 ;Size = ; 11 ;common tag; topic.ship  
+adjust date effective equipment exclude extraordinary french gulf industries item
+ Cluster k = ; 29 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 30 ;Size = ; 12 ;common tag; topic.earn  
+assets avg china eight england excludes extraordinary includes insurance june
+ Cluster k = ; 31 ;Size = ; 25 ;common tag; topic.acq  
+adjust august avg complete declare div dividend division east effective
+ Cluster k = ; 32 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 33 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 34 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 35 ;Size = ; 28 ;common tag; topic.corn  
+avg complete declare discontinue div dividend division effective eight equipment
+ Cluster k = ; 36 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 37 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 38 ;Size = ; 18 ;common tag; topic.acq  
+avg date declare discontinue div dividend east eight equipment exclude
+ Cluster k = ; 39 ;Size = ; 19 ;common tag; topic.acq  
+august avg china complete disclose discontinue dividend east england exclude
+ Cluster k = ; 40 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 41 ;Size = ; 10 ;common tag; topic.acq  
+distribution div division effective eight equipment extraordinary industries letter merger
+ Cluster k = ; 42 ;Size = ; 12 ;common tag; topic.earn  
+attack avg complete discontinue div england june letter maize mths
+ Cluster k = ; 43 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 44 ;Size = ; 26 ;common tag; topic.acq  
+date discontinue div dividend division east effective french gulf industries
+ Cluster k = ; 45 ;Size = ; 11 ;common tag; topic.crude  
+adjust attack avg china disclose east effective eight england french
+ Cluster k = ; 46 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 47 ;Size = ; 28 ;common tag; topic.grain  
+complete date declare delivery disclose distribution div dividend division effective
+ Cluster k = ; 48 ;Size = ; 18 ;common tag; topic.acq  
+adjust avg china declare delivery distribution div dividend eight extraordinary
+ Cluster k = ; 49 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 50 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 51 ;Size = ; 28 ;common tag; topic.grain  
+complete date distribution div dividend east effective eight england extraordinary
+ Cluster k = ; 52 ;Size = ; 10 ;common tag; topic.acq  
+avg complete east eight excludes french mths north oper port
+ Cluster k = ; 53 ;Size = ; 16 ;common tag; topic.earn  
+china complete disclose div dividend effective gulf june letter merger
+ Cluster k = ; 54 ;Size = ; 21 ;common tag; topic.acq  
+adjust august avg china date declare delivery disclose discontinue distribution
+ Cluster k = ; 55 ;Size = ; 11 ;common tag; topic.earn  
+attack complete declare discontinue dividend effective eight england exclude excludes
+ Cluster k = ; 56 ;Size = ; 11 ;common tag; topic.acq  
+adjust avg complete disclose div eight equipment merger mths name
+ Cluster k = ; 57 ;Size = ; 11 ;common tag; topic.acq  
+adjust attack august avg complete distribution eight excludes extraordinary gulf
+ Cluster k = ; 58 ;Size = ; 12 ;common tag; topic.acq  
+avg discontinue div dividend effective exclude extraordinary includes item oper
+ Cluster k = ; 59 ;Size = ; 28 ;common tag; topic.acq  
+avg china complete disclose distribution div dividend division eight exclude
+ Cluster k = ; 60 ;Size = ; 15 ;common tag; topic.earn  
+adjust china disclose div dividend effective eight england holder includes
+ Cluster k = ; 61 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 62 ;Size = ; 21 ;common tag; topic.earn  
+adjust complete date discontinue div dividend division east eight extraordinary
+ Cluster k = ; 63 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 64 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 65 ;Size = ; 22 ;common tag; topic.ship  
+adjust declare delivery discontinue distribution dividend east extraordinary french holder
+ Cluster k = ; 66 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 67 ;Size = ; 18 ;common tag; topic.acq  
+avg complete date div east england includes insurance letter merger
+ Cluster k = ; 68 ;Size = ; 14 ;common tag; topic.ship  
+avg complete declare disclose div dividend effective eight exclude extraordinary
+ Cluster k = ; 69 ;Size = ; 24 ;common tag; topic.earn  
+avg delivery disclose distribution div eight equipment exclude excludes extraordinary
+ Cluster k = ; 70 ;Size = ; 15 ;common tag; topic.crude  
+disclose div east effective equipment june letter mths name nil
+ Cluster k = ; 71 ;Size = ; 11 ;common tag; topic.grain  
+complete dividend east eight exclude extraordinary holder nine oper pay
+ Cluster k = ; 72 ;Size = ; 28 ;common tag; topic.earn  
+august avg declare delivery discontinue distribution div dividend east eight
+ Cluster k = ; 73 ;Size = ; 12 ;common tag; topic.earn  
+avg china discontinue div exclude gulf includes iran merger mths
+ Cluster k = ; 74 ;Size = ; 10 ;common tag; topic.acq  
+assets avg china date div dividend eight mths nine pay
+ Cluster k = ; 75 ;Size = ; 92 ;common tag; topic.ship  
+adjust attack avg china complete declare delivery disclose discontinue div
+ Cluster k = ; 76 ;Size = ; 13 ;common tag; topic.acq  
+attack complete date declare disclose div dividend exclude extraordinary gulf
+ Cluster k = ; 77 ;Size = ; 7 ;common tag; topic.earn  
+august avg complete distribution effective eight england extraordinary includes june
+ topic.trade topic.money.fx topic.earn topic.earn topic.earn topic.earn topic.trade topic.acq topic.ship topic.acq topic.crude topic.acq topic.acq topic.crude topic.crude topic.acq topic.acq topic.acq topic.money.fx topic.crude topic.grain topic.money.fx topic.money.fx topic.grain topic.acq topic.trade topic.acq topic.ship topic.acq topic.earn topic.acq topic.acq topic.acq topic.earn topic.corn topic.ship topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.earn topic.acq topic.crude topic.acq topic.grain topic.acq topic.money.fx topic.grain topic.grain topic.acq topic.earn topic.acq topic.earn topic.acq topic.acq topic.acq topic.acq topic.earn topic.interest topic.earn topic.interest topic.acq topic.ship topic.acq topic.acq topic.ship topic.earn topic.crude topic.grain topic.earn topic.earn topic.acq topic.ship topic.acq topic.earn ; 9
+Performing DBSCAN clustering with EPS =  0.9  and MinPts =  10
+ Cluster k = ; 1 ;Size = ; 7631 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  2  and MinPts =  10
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  5  and MinPts =  10
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  10  and MinPts =  10
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  0.4  and MinPts =  20
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 3 ;Size = ; 70 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 4 ;Size = ; 24 ;common tag; topic.earn  
+china complete date distribution div dividend east eight extraordinary includes
+ Cluster k = ; 5 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 84 ;common tag; topic.earn  
+adjust assets attack avg china complete date declare discontinue distribution
+ Cluster k = ; 7 ;Size = ; 50 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 8 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 9 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 27 ;common tag; topic.ship  
+avg complete discontinue distribution div exclude extraordinary french industries july
+ Cluster k = ; 11 ;Size = ; 93 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare discontinue
+ Cluster k = ; 12 ;Size = ; 171 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 38 ;common tag; topic.earn  
+adjust august avg complete date declare disclose discontinue div dividend
+ Cluster k = ; 14 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 15 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 16 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 17 ;Size = ; 21 ;common tag; topic.crude  
+attack august avg delivery distribution div dividend east effective eight
+ Cluster k = ; 18 ;Size = ; 35 ;common tag; topic.earn  
+avg china date declare distribution div dividend division effective eight
+ Cluster k = ; 19 ;Size = ; 85 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery disclose
+ Cluster k = ; 20 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 21 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 22 ;Size = ; 23 ;common tag; topic.acq  
+adjust avg declare disclose discontinue div dividend effective eight equipment
+ Cluster k = ; 23 ;Size = ; 21 ;common tag; topic.money.fx  
+avg china complete declare delivery disclose distribution div division eight
+ Cluster k = ; 24 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 25 ;Size = ; 37 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 26 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 27 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 28 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 29 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 30 ;Size = ; 25 ;common tag; topic.acq  
+adjust august avg complete declare div dividend division east effective
+ Cluster k = ; 31 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 32 ;Size = ; 21 ;common tag; topic.earn  
+avg complete declare delivery dividend division east effective equipment excludes
+ Cluster k = ; 33 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 34 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 35 ;Size = ; 28 ;common tag; topic.corn  
+avg complete declare discontinue div dividend division effective eight equipment
+ Cluster k = ; 36 ;Size = ; 34 ;common tag; topic.earn  
+adjust avg complete date delivery disclose discontinue distribution div dividend
+ Cluster k = ; 37 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 38 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 39 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 40 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 41 ;Size = ; 26 ;common tag; topic.acq  
+date discontinue div dividend division east effective french gulf industries
+ Cluster k = ; 42 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 43 ;Size = ; 28 ;common tag; topic.grain  
+complete date declare delivery disclose distribution div dividend division effective
+ Cluster k = ; 44 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 45 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 46 ;Size = ; 31 ;common tag; topic.earn  
+assets avg distribution div dividend east excludes extraordinary french includes
+ Cluster k = ; 47 ;Size = ; 28 ;common tag; topic.grain  
+complete date distribution div dividend east effective eight england extraordinary
+ Cluster k = ; 48 ;Size = ; 22 ;common tag; topic.earn  
+avg china delivery disclose div england equipment extraordinary holder includes
+ Cluster k = ; 49 ;Size = ; 21 ;common tag; topic.acq  
+adjust august avg china date declare delivery disclose discontinue distribution
+ Cluster k = ; 50 ;Size = ; 28 ;common tag; topic.acq  
+avg china complete disclose distribution div dividend division eight exclude
+ Cluster k = ; 51 ;Size = ; 31 ;common tag; topic.earn  
+assets august avg date declare delivery disclose discontinue distribution eight
+ Cluster k = ; 52 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 53 ;Size = ; 21 ;common tag; topic.earn  
+adjust complete date discontinue div dividend division east eight extraordinary
+ Cluster k = ; 54 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 55 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 56 ;Size = ; 22 ;common tag; topic.earn  
+adjust avg china complete declare distribution dividend division east extraordinary
+ Cluster k = ; 57 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 58 ;Size = ; 22 ;common tag; topic.earn  
+complete declare disclose discontinue distribution div dividend division excludes extraordinary
+ Cluster k = ; 59 ;Size = ; 24 ;common tag; topic.earn  
+avg delivery disclose distribution div eight equipment exclude excludes extraordinary
+ Cluster k = ; 60 ;Size = ; 21 ;common tag; topic.earn  
+adjust assets avg china disclose div dividend east effective eight
+ topic.trade topic.money.fx topic.earn topic.earn topic.earn topic.earn topic.earn topic.trade topic.acq topic.ship topic.earn topic.earn topic.earn topic.acq topic.acq topic.acq topic.crude topic.earn topic.earn topic.acq topic.acq topic.acq topic.money.fx topic.money.fx topic.money.fx topic.grain topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.acq topic.earn topic.corn topic.earn topic.ship topic.acq topic.acq topic.earn topic.acq topic.acq topic.grain topic.money.fx topic.grain topic.earn topic.grain topic.earn topic.acq topic.acq topic.earn topic.interest topic.earn topic.interest topic.acq topic.earn topic.acq topic.earn topic.earn topic.earn ; 9
+Performing DBSCAN clustering with EPS =  0.6  and MinPts =  20
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 3 ;Size = ; 1288 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 24 ;common tag; topic.earn  
+china complete date distribution div dividend east eight extraordinary includes
+ Cluster k = ; 5 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 489 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 8 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 9 ;Size = ; 27 ;common tag; topic.ship  
+avg complete discontinue distribution div exclude extraordinary french industries july
+ Cluster k = ; 10 ;Size = ; 151 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 11 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 12 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 13 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 14 ;Size = ; 21 ;common tag; topic.crude  
+attack august avg delivery distribution div dividend east effective eight
+ Cluster k = ; 15 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 16 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 17 ;Size = ; 23 ;common tag; topic.acq  
+adjust avg declare disclose discontinue div dividend effective eight equipment
+ Cluster k = ; 18 ;Size = ; 21 ;common tag; topic.money.fx  
+avg china complete declare delivery disclose distribution div division eight
+ Cluster k = ; 19 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 20 ;Size = ; 58 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 21 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 22 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 23 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 24 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 25 ;Size = ; 25 ;common tag; topic.acq  
+adjust august avg complete declare div dividend division east effective
+ Cluster k = ; 26 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 27 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 28 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 29 ;Size = ; 28 ;common tag; topic.corn  
+avg complete declare discontinue div dividend division effective eight equipment
+ Cluster k = ; 30 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 31 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 32 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 33 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 34 ;Size = ; 26 ;common tag; topic.acq  
+date discontinue div dividend division east effective french gulf industries
+ Cluster k = ; 35 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 36 ;Size = ; 28 ;common tag; topic.grain  
+complete date declare delivery disclose distribution div dividend division effective
+ Cluster k = ; 37 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 38 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 39 ;Size = ; 28 ;common tag; topic.grain  
+complete date distribution div dividend east effective eight england extraordinary
+ Cluster k = ; 40 ;Size = ; 21 ;common tag; topic.acq  
+adjust august avg china date declare delivery disclose discontinue distribution
+ Cluster k = ; 41 ;Size = ; 28 ;common tag; topic.acq  
+avg china complete disclose distribution div dividend division eight exclude
+ Cluster k = ; 42 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 43 ;Size = ; 21 ;common tag; topic.earn  
+adjust complete date discontinue div dividend division east eight extraordinary
+ Cluster k = ; 44 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 45 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 46 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 47 ;Size = ; 24 ;common tag; topic.earn  
+avg delivery disclose distribution div eight equipment exclude excludes extraordinary
+ Cluster k = ; 48 ;Size = ; 10 ;common tag; topic.earn  
+avg complete date discontinue distribution div exclude excludes extraordinary holder
+ Cluster k = ; 49 ;Size = ; 81 ;common tag; topic.ship  
+adjust avg complete disclose discontinue div dividend division effective eight
+ Cluster k = ; 50 ;Size = ; 15 ;common tag; topic.earn  
+august avg complete date disclose distribution div dividend eight exclude
+ topic.trade topic.money.fx topic.earn topic.earn topic.earn topic.earn topic.trade topic.acq topic.ship topic.earn topic.acq topic.acq topic.acq topic.crude topic.acq topic.acq topic.acq topic.money.fx topic.money.fx topic.money.fx topic.grain topic.acq topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.corn topic.ship topic.acq topic.acq topic.earn topic.acq topic.acq topic.grain topic.money.fx topic.grain topic.grain topic.acq topic.acq topic.interest topic.earn topic.interest topic.acq topic.acq topic.earn topic.earn topic.ship topic.earn ; 9
+Performing DBSCAN clustering with EPS =  0.9  and MinPts =  20
+ Cluster k = ; 1 ;Size = ; 7613 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  2  and MinPts =  20
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  5  and MinPts =  20
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  10  and MinPts =  20
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  0.4  and MinPts =  30
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 3 ;Size = ; 70 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 4 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 50 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery discontinue
+ Cluster k = ; 6 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 7 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 8 ;Size = ; 93 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare discontinue
+ Cluster k = ; 9 ;Size = ; 171 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 38 ;common tag; topic.earn  
+adjust august avg complete date declare disclose discontinue div dividend
+ Cluster k = ; 11 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 12 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 13 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 14 ;Size = ; 35 ;common tag; topic.earn  
+avg china date declare distribution div dividend division effective eight
+ Cluster k = ; 15 ;Size = ; 85 ;common tag; topic.earn  
+adjust assets august avg china complete date declare delivery disclose
+ Cluster k = ; 16 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 17 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 18 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 19 ;Size = ; 37 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 20 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 21 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 22 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 23 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 24 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 25 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 26 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 27 ;Size = ; 34 ;common tag; topic.earn  
+adjust avg complete date delivery disclose discontinue distribution div dividend
+ Cluster k = ; 28 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 29 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 30 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 31 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 32 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 33 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 34 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 35 ;Size = ; 31 ;common tag; topic.earn  
+assets avg distribution div dividend east excludes extraordinary french includes
+ Cluster k = ; 36 ;Size = ; 30 ;common tag; topic.earn  
+assets august avg date declare delivery disclose discontinue distribution eight
+ Cluster k = ; 37 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 38 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 39 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 40 ;Size = ; 66 ;common tag; topic.earn  
+adjust assets attack avg china complete date declare discontinue distribution
+ Cluster k = ; 41 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ topic.trade topic.money.fx topic.earn topic.earn topic.earn topic.trade topic.acq topic.earn topic.earn topic.earn topic.acq topic.acq topic.acq topic.earn topic.earn topic.acq topic.acq topic.money.fx topic.money.fx topic.grain topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.earn topic.ship topic.acq topic.acq topic.earn topic.acq topic.money.fx topic.grain topic.earn topic.earn topic.interest topic.interest topic.acq topic.earn topic.acq ; 7
+Performing DBSCAN clustering with EPS =  0.6  and MinPts =  30
+ Cluster k = ; 1 ;Size = ; 46 ;common tag; topic.trade  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 2 ;Size = ; 56 ;common tag; topic.money.fx  
+august avg china complete date declare disclose div dividend division
+ Cluster k = ; 3 ;Size = ; 1175 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 233 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 479 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 76 ;common tag; topic.trade  
+adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 7 ;Size = ; 38 ;common tag; topic.acq  
+adjust assets attack august avg declare disclose discontinue distribution div
+ Cluster k = ; 8 ;Size = ; 133 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 9 ;Size = ; 75 ;common tag; topic.acq  
+attack avg china complete date declare disclose discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 79 ;common tag; topic.acq  
+adjust avg china complete date declare disclose discontinue div dividend
+ Cluster k = ; 11 ;Size = ; 59 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose distribution
+ Cluster k = ; 12 ;Size = ; 31 ;common tag; topic.acq  
+adjust august avg china complete date declare delivery div dividend
+ Cluster k = ; 13 ;Size = ; 37 ;common tag; topic.acq  
+adjust august china complete declare delivery disclose distribution div dividend
+ Cluster k = ; 14 ;Size = ; 95 ;common tag; topic.money.fx  
+adjust august avg china complete date declare delivery discontinue distribution
+ Cluster k = ; 15 ;Size = ; 58 ;common tag; topic.money.fx  
+adjust attack august avg china complete declare delivery disclose discontinue
+ Cluster k = ; 16 ;Size = ; 35 ;common tag; topic.grain  
+avg complete declare disclose div dividend division eight england equipment
+ Cluster k = ; 17 ;Size = ; 106 ;common tag; topic.acq  
+adjust august avg china complete date delivery disclose discontinue div
+ Cluster k = ; 18 ;Size = ; 38 ;common tag; topic.acq  
+august avg complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 19 ;Size = ; 62 ;common tag; topic.acq  
+adjust assets attack avg china complete date declare disclose discontinue
+ Cluster k = ; 20 ;Size = ; 34 ;common tag; topic.acq  
+avg china complete date discontinue dividend eight exclude holder includes
+ Cluster k = ; 21 ;Size = ; 67 ;common tag; topic.acq  
+adjust avg complete date declare delivery disclose discontinue div dividend
+ Cluster k = ; 22 ;Size = ; 33 ;common tag; topic.earn  
+avg china complete date declare delivery discontinue distribution div dividend
+ Cluster k = ; 23 ;Size = ; 32 ;common tag; topic.ship  
+avg complete date delivery disclose discontinue div division east eight
+ Cluster k = ; 24 ;Size = ; 40 ;common tag; topic.acq  
+adjust avg china complete disclose discontinue distribution div dividend division
+ Cluster k = ; 25 ;Size = ; 51 ;common tag; topic.acq  
+adjust attack august avg complete date discontinue div dividend division
+ Cluster k = ; 26 ;Size = ; 86 ;common tag; topic.earn  
+adjust attack august avg china complete date declare delivery disclose
+ Cluster k = ; 27 ;Size = ; 60 ;common tag; topic.acq  
+adjust assets attack august avg china complete date delivery discontinue
+ Cluster k = ; 28 ;Size = ; 47 ;common tag; topic.money.fx  
+adjust avg complete date declare delivery disclose div dividend division
+ Cluster k = ; 29 ;Size = ; 46 ;common tag; topic.grain  
+adjust august avg complete date declare disclose distribution div dividend
+ Cluster k = ; 30 ;Size = ; 31 ;common tag; topic.interest  
+avg china complete declare disclose discontinue distribution div dividend division
+ Cluster k = ; 31 ;Size = ; 47 ;common tag; topic.interest  
+adjust august avg china complete delivery disclose discontinue div dividend
+ Cluster k = ; 32 ;Size = ; 31 ;common tag; topic.acq  
+avg complete discontinue distribution div dividend division east effective eight
+ Cluster k = ; 33 ;Size = ; 32 ;common tag; topic.acq  
+adjust attack avg complete date delivery disclose div division effective
+ Cluster k = ; 34 ;Size = ; 67 ;common tag; topic.ship  
+adjust avg complete disclose discontinue div dividend division effective eight
+ topic.trade topic.money.fx topic.earn topic.earn topic.earn topic.trade topic.acq topic.earn topic.acq topic.acq topic.acq topic.acq topic.acq topic.money.fx topic.money.fx topic.grain topic.acq topic.acq topic.acq topic.acq topic.acq topic.earn topic.ship topic.acq topic.acq topic.earn topic.acq topic.money.fx topic.grain topic.interest topic.interest topic.acq topic.acq topic.ship ; 7
+Performing DBSCAN clustering with EPS =  0.9  and MinPts =  30
+ Cluster k = ; 1 ;Size = ; 7590 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  2  and MinPts =  30
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  5  and MinPts =  30
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
+Performing DBSCAN clustering with EPS =  10  and MinPts =  30
+ Cluster k = ; 1 ;Size = ; 7659 ;common tag; topic.earn  
+adjust assets attack august avg china complete date declare delivery
+ topic.earn ; 1
