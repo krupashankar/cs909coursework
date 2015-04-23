@@ -1,0 +1,737 @@
+Performing HAC clustering for k =  5
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 7654 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.earn ; 4
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 379 ;common tag; topic.earn  
+Words: adjust assets august avg china complete delivery discontinue distribution div
+ Cluster k = ; 2 ;Size = ; 98 ;common tag; topic.earn  
+Words: august avg discontinue dividend eight exclude excludes extraordinary gulf item
+ Cluster k = ; 3 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 5 ;Size = ; 6873 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.earn topic.earn topic.acq topic.earn topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 916 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 3 ;Size = ; 4750 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 5 ;Size = ; 1356 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.money.fx topic.ship topic.earn topic.crude topic.acq ; 5
+Performing HAC clustering for k =  6
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 7651 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.earn ; 4
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 379 ;common tag; topic.earn  
+Words: adjust assets august avg china complete delivery discontinue distribution div
+ Cluster k = ; 2 ;Size = ; 98 ;common tag; topic.earn  
+Words: august avg discontinue dividend eight exclude excludes extraordinary gulf item
+ Cluster k = ; 3 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 5 ;Size = ; 1633 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare disclose discontinue distribution
+ Cluster k = ; 6 ;Size = ; 5240 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.earn topic.earn topic.acq topic.earn topic.earn topic.acq ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 916 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 3 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 2508 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 6 ;Size = ; 1356 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.money.fx topic.ship topic.earn topic.earn topic.crude topic.acq ; 5
+Performing HAC clustering for k =  7
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 7650 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 379 ;common tag; topic.earn  
+Words: adjust assets august avg china complete delivery discontinue distribution div
+ Cluster k = ; 2 ;Size = ; 98 ;common tag; topic.earn  
+Words: august avg discontinue dividend eight exclude excludes extraordinary gulf item
+ Cluster k = ; 3 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 5 ;Size = ; 1633 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare disclose discontinue distribution
+ Cluster k = ; 6 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 4579 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.acq ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 916 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 3 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 2508 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 6 ;Size = ; 1208 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 148 ;common tag; topic.acq  
+Words: adjust assets august china complete delivery disclose discontinue distribution dividend
+ topic.money.fx topic.ship topic.earn topic.earn topic.crude topic.acq topic.acq ; 5
+Performing HAC clustering for k =  8
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 7649 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 379 ;common tag; topic.earn  
+Words: adjust assets august avg china complete delivery discontinue distribution div
+ Cluster k = ; 2 ;Size = ; 98 ;common tag; topic.earn  
+Words: august avg discontinue dividend eight exclude excludes extraordinary gulf item
+ Cluster k = ; 3 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 5 ;Size = ; 1633 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare disclose discontinue distribution
+ Cluster k = ; 6 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 4276 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 303 ;common tag; topic.earn  
+Words: adjust attack august complete date declare disclose discontinue distribution div
+ topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.acq topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 916 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 3 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 4 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 5 ;Size = ; 2053 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 7 ;Size = ; 1208 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 148 ;common tag; topic.acq  
+Words: adjust assets august china complete delivery disclose discontinue distribution dividend
+ topic.money.fx topic.ship topic.earn topic.acq topic.earn topic.crude topic.acq topic.acq ; 5
+Performing HAC clustering for k =  9
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 7646 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 98 ;common tag; topic.earn  
+Words: august avg discontinue dividend eight exclude excludes extraordinary gulf item
+ Cluster k = ; 4 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 5 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 6 ;Size = ; 1633 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare disclose discontinue distribution
+ Cluster k = ; 7 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 4276 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 303 ;common tag; topic.earn  
+Words: adjust attack august complete date declare disclose discontinue distribution div
+ topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.acq topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 756 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 4 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 5 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 6 ;Size = ; 2053 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 8 ;Size = ; 1208 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 148 ;common tag; topic.acq  
+Words: adjust assets august china complete delivery disclose discontinue distribution dividend
+ topic.money.fx topic.grain topic.ship topic.earn topic.acq topic.earn topic.crude topic.acq topic.acq ; 6
+Performing HAC clustering for k =  10
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 7645 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.acq topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 39 ;common tag; topic.earn  
+Words: august avg discontinue dividend extraordinary mths name nil nine pretax
+ Cluster k = ; 4 ;Size = ; 59 ;common tag; topic.earn  
+Words: august avg discontinue eight exclude excludes extraordinary gulf item merger
+ Cluster k = ; 5 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 7 ;Size = ; 1633 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare disclose discontinue distribution
+ Cluster k = ; 8 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 4276 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 303 ;common tag; topic.earn  
+Words: adjust attack august complete date declare disclose discontinue distribution div
+ topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.acq topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 756 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 4 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 5 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 6 ;Size = ; 202 ;common tag; topic.acq  
+Words: adjust assets attack avg china complete date delivery disclose discontinue
+ Cluster k = ; 7 ;Size = ; 1851 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 9 ;Size = ; 1208 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 148 ;common tag; topic.acq  
+Words: adjust assets august china complete delivery disclose discontinue distribution dividend
+ topic.money.fx topic.grain topic.ship topic.earn topic.acq topic.acq topic.earn topic.crude topic.acq topic.acq ; 6
+Performing HAC clustering for k =  11
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 7644 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.acq topic.earn topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 39 ;common tag; topic.earn  
+Words: august avg discontinue dividend extraordinary mths name nil nine pretax
+ Cluster k = ; 4 ;Size = ; 59 ;common tag; topic.earn  
+Words: august avg discontinue eight exclude excludes extraordinary gulf item merger
+ Cluster k = ; 5 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 7 ;Size = ; 218 ;common tag; topic.earn  
+Words: adjust assets august avg discontinue distribution div dividend division effective
+ Cluster k = ; 8 ;Size = ; 1415 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare disclose discontinue distribution
+ Cluster k = ; 9 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 4276 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 303 ;common tag; topic.earn  
+Words: adjust attack august complete date declare disclose discontinue distribution div
+ topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 756 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 4 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 5 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 6 ;Size = ; 202 ;common tag; topic.acq  
+Words: adjust assets attack avg china complete date delivery disclose discontinue
+ Cluster k = ; 7 ;Size = ; 1851 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 9 ;Size = ; 1208 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 59 ;common tag; topic.earn  
+Words: assets august china complete discontinue distribution division effective eight equipment
+ Cluster k = ; 11 ;Size = ; 89 ;common tag; topic.acq  
+Words: adjust august china complete delivery disclose discontinue dividend division effective
+ topic.money.fx topic.grain topic.ship topic.earn topic.acq topic.acq topic.earn topic.crude topic.acq topic.earn topic.acq ; 6
+Performing HAC clustering for k =  12
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 7643 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.acq topic.earn topic.earn topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 39 ;common tag; topic.earn  
+Words: august avg discontinue dividend extraordinary mths name nil nine pretax
+ Cluster k = ; 4 ;Size = ; 59 ;common tag; topic.earn  
+Words: august avg discontinue eight exclude excludes extraordinary gulf item merger
+ Cluster k = ; 5 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 7 ;Size = ; 218 ;common tag; topic.earn  
+Words: adjust assets august avg discontinue distribution div dividend division effective
+ Cluster k = ; 8 ;Size = ; 252 ;common tag; topic.earn  
+Words: adjust assets august avg complete date disclose discontinue dividend division
+ Cluster k = ; 9 ;Size = ; 1163 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 4276 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 303 ;common tag; topic.earn  
+Words: adjust attack august complete date declare disclose discontinue distribution div
+ topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 756 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose distribution
+ Cluster k = ; 4 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 5 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 6 ;Size = ; 202 ;common tag; topic.acq  
+Words: adjust assets attack avg china complete date delivery disclose discontinue
+ Cluster k = ; 7 ;Size = ; 1851 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 9 ;Size = ; 337 ;common tag; topic.acq  
+Words: august china complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 871 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 59 ;common tag; topic.earn  
+Words: assets august china complete discontinue distribution division effective eight equipment
+ Cluster k = ; 12 ;Size = ; 89 ;common tag; topic.acq  
+Words: adjust august china complete delivery disclose discontinue dividend division effective
+ topic.money.fx topic.grain topic.ship topic.earn topic.acq topic.acq topic.earn topic.crude topic.acq topic.acq topic.earn topic.acq ; 6
+Performing HAC clustering for k =  13
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 7642 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.acq topic.earn topic.earn topic.earn topic.earn ; 5
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 39 ;common tag; topic.earn  
+Words: august avg discontinue dividend extraordinary mths name nil nine pretax
+ Cluster k = ; 4 ;Size = ; 59 ;common tag; topic.earn  
+Words: august avg discontinue eight exclude excludes extraordinary gulf item merger
+ Cluster k = ; 5 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 7 ;Size = ; 218 ;common tag; topic.earn  
+Words: adjust assets august avg discontinue distribution div dividend division effective
+ Cluster k = ; 8 ;Size = ; 252 ;common tag; topic.earn  
+Words: adjust assets august avg complete date disclose discontinue dividend division
+ Cluster k = ; 9 ;Size = ; 1163 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 4276 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 34 ;common tag; topic.acq  
+Words: august complete disclose distribution dividend division effective eight england holder
+ Cluster k = ; 13 ;Size = ; 269 ;common tag; topic.earn  
+Words: adjust attack august complete date declare discontinue distribution div dividend
+ topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.earn topic.earn topic.acq topic.acq topic.earn ; 2
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 192 ;common tag; topic.grain  
+Words: attack august china complete date declare delivery disclose distribution dividend
+ Cluster k = ; 4 ;Size = ; 564 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose div
+ Cluster k = ; 5 ;Size = ; 2242 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 7 ;Size = ; 202 ;common tag; topic.acq  
+Words: adjust assets attack avg china complete date delivery disclose discontinue
+ Cluster k = ; 8 ;Size = ; 1851 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 10 ;Size = ; 337 ;common tag; topic.acq  
+Words: august china complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 11 ;Size = ; 871 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 59 ;common tag; topic.earn  
+Words: assets august china complete discontinue distribution division effective eight equipment
+ Cluster k = ; 13 ;Size = ; 89 ;common tag; topic.acq  
+Words: adjust august china complete delivery disclose discontinue dividend division effective
+ topic.money.fx topic.grain topic.grain topic.ship topic.earn topic.acq topic.acq topic.earn topic.crude topic.acq topic.acq topic.earn topic.acq ; 6
+Performing HAC clustering for k =  14
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 1 ;common tag; topic.ship  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 14 ;Size = ; 7641 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.acq topic.earn topic.earn topic.earn topic.ship topic.earn ; 6
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 39 ;common tag; topic.earn  
+Words: august avg discontinue dividend extraordinary mths name nil nine pretax
+ Cluster k = ; 4 ;Size = ; 59 ;common tag; topic.earn  
+Words: august avg discontinue eight exclude excludes extraordinary gulf item merger
+ Cluster k = ; 5 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 7 ;Size = ; 218 ;common tag; topic.earn  
+Words: adjust assets august avg discontinue distribution div dividend division effective
+ Cluster k = ; 8 ;Size = ; 252 ;common tag; topic.earn  
+Words: adjust assets august avg complete date disclose discontinue dividend division
+ Cluster k = ; 9 ;Size = ; 1163 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 102 ;common tag; topic.ship  
+Words: attack august complete date delivery disclose dividend division east effective
+ Cluster k = ; 12 ;Size = ; 4174 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 34 ;common tag; topic.acq  
+Words: august complete disclose distribution dividend division effective eight england holder
+ Cluster k = ; 14 ;Size = ; 269 ;common tag; topic.earn  
+Words: adjust attack august complete date declare discontinue distribution div dividend
+ topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.earn topic.earn topic.ship topic.acq topic.acq topic.earn ; 3
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 192 ;common tag; topic.grain  
+Words: attack august china complete date declare delivery disclose distribution dividend
+ Cluster k = ; 4 ;Size = ; 564 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose div
+ Cluster k = ; 5 ;Size = ; 34 ;common tag; topic.earn  
+Words: adjust august avg discontinue eight england exclude excludes holder includes
+ Cluster k = ; 6 ;Size = ; 2208 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 7 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 8 ;Size = ; 202 ;common tag; topic.acq  
+Words: adjust assets attack avg china complete date delivery disclose discontinue
+ Cluster k = ; 9 ;Size = ; 1851 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 11 ;Size = ; 337 ;common tag; topic.acq  
+Words: august china complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 12 ;Size = ; 871 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 59 ;common tag; topic.earn  
+Words: assets august china complete discontinue distribution division effective eight equipment
+ Cluster k = ; 14 ;Size = ; 89 ;common tag; topic.acq  
+Words: adjust august china complete delivery disclose discontinue dividend division effective
+ topic.money.fx topic.grain topic.grain topic.ship topic.earn topic.earn topic.acq topic.acq topic.earn topic.crude topic.acq topic.acq topic.earn topic.acq ; 6
+Performing HAC clustering for k =  15
+************* SINGLE*************************
+ Cluster k = ; 1 ;Size = ; 2 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 2 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 3 ;Size = ; 1 ;common tag; topic.trade  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 4 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 5 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 6 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 7 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 8 ;Size = ; 3 ;common tag; topic.corn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 9 ;Size = ; 1 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 10 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 12 ;Size = ; 1 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 1 ;common tag; topic.ship  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 14 ;Size = ; 1 ;common tag; topic.crude  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 15 ;Size = ; 7640 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ topic.corn topic.acq topic.trade topic.earn topic.corn topic.crude topic.acq topic.corn topic.acq topic.earn topic.earn topic.earn topic.ship topic.crude topic.earn ; 6
+************* COMPLETE*************************
+ Cluster k = ; 1 ;Size = ; 96 ;common tag; topic.earn  
+Words: adjust assets august avg complete discontinue dividend division effective eight
+ Cluster k = ; 2 ;Size = ; 283 ;common tag; topic.earn  
+Words: adjust august avg china delivery discontinue distribution div dividend division
+ Cluster k = ; 3 ;Size = ; 39 ;common tag; topic.earn  
+Words: august avg discontinue dividend extraordinary mths name nil nine pretax
+ Cluster k = ; 4 ;Size = ; 59 ;common tag; topic.earn  
+Words: august avg discontinue eight exclude excludes extraordinary gulf item merger
+ Cluster k = ; 5 ;Size = ; 249 ;common tag; topic.acq  
+Words: adjust attack august avg china complete date declare disclose discontinue
+ Cluster k = ; 6 ;Size = ; 60 ;common tag; topic.earn  
+Words: adjust assets avg china declare distribution div dividend division east
+ Cluster k = ; 7 ;Size = ; 218 ;common tag; topic.earn  
+Words: adjust assets august avg discontinue distribution div dividend division effective
+ Cluster k = ; 8 ;Size = ; 252 ;common tag; topic.earn  
+Words: adjust assets august avg complete date disclose discontinue dividend division
+ Cluster k = ; 9 ;Size = ; 1163 ;common tag; topic.earn  
+Words: adjust assets august avg complete date declare discontinue distribution div
+ Cluster k = ; 10 ;Size = ; 661 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 102 ;common tag; topic.ship  
+Words: attack august complete date delivery disclose dividend division east effective
+ Cluster k = ; 12 ;Size = ; 12 ;common tag; topic.grain  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 13 ;Size = ; 4162 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 14 ;Size = ; 34 ;common tag; topic.acq  
+Words: august complete disclose distribution dividend division effective eight england holder
+ Cluster k = ; 15 ;Size = ; 269 ;common tag; topic.earn  
+Words: adjust attack august complete date declare discontinue distribution div dividend
+ topic.earn topic.earn topic.earn topic.earn topic.acq topic.earn topic.earn topic.earn topic.earn topic.earn topic.ship topic.grain topic.acq topic.acq topic.earn ; 4
+************* AVERAGE*************************
+ Cluster k = ; 1 ;Size = ; 378 ;common tag; topic.money.fx  
+Words: august complete date distribution dividend division east effective eight england
+ Cluster k = ; 2 ;Size = ; 160 ;common tag; topic.grain  
+Words: attack china complete declare delivery distribution division east equipment exclude
+ Cluster k = ; 3 ;Size = ; 192 ;common tag; topic.grain  
+Words: attack august china complete date declare delivery disclose distribution dividend
+ Cluster k = ; 4 ;Size = ; 564 ;common tag; topic.ship  
+Words: adjust attack august china complete date declare delivery disclose div
+ Cluster k = ; 5 ;Size = ; 34 ;common tag; topic.earn  
+Words: adjust august avg discontinue eight england exclude excludes holder includes
+ Cluster k = ; 6 ;Size = ; 2208 ;common tag; topic.earn  
+Words: adjust assets august avg china complete date declare disclose discontinue
+ Cluster k = ; 7 ;Size = ; 455 ;common tag; topic.acq  
+Words: adjust assets attack august china complete date delivery disclose distribution
+ Cluster k = ; 8 ;Size = ; 202 ;common tag; topic.acq  
+Words: adjust assets attack avg china complete date delivery disclose discontinue
+ Cluster k = ; 9 ;Size = ; 384 ;common tag; topic.acq  
+Words: adjust assets august china complete date delivery disclose discontinue distribution
+ Cluster k = ; 10 ;Size = ; 1467 ;common tag; topic.earn  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 11 ;Size = ; 259 ;common tag; topic.crude  
+Words: adjust attack august china complete date declare delivery discontinue distribution
+ Cluster k = ; 12 ;Size = ; 337 ;common tag; topic.acq  
+Words: august china complete date declare delivery disclose discontinue distribution div
+ Cluster k = ; 13 ;Size = ; 871 ;common tag; topic.acq  
+Words: adjust assets attack august avg china complete date declare delivery
+ Cluster k = ; 14 ;Size = ; 59 ;common tag; topic.earn  
+Words: assets august china complete discontinue distribution division effective eight equipment
+ Cluster k = ; 15 ;Size = ; 89 ;common tag; topic.acq  
+Words: adjust august china complete delivery disclose discontinue dividend division effective
+ topic.money.fx topic.grain topic.grain topic.ship topic.earn topic.earn topic.acq topic.acq topic.acq topic.earn topic.crude topic.acq topic.acq topic.earn topic.acq ; 6
