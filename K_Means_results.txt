@@ -1,0 +1,313 @@
+Performing clustering with K=  5
+ Cluster k =  1  Size =  3402  ;  topic.money.fx  
+accord account action add administration agree agreement agriculture also american
+ Cluster k =  2  Size =  2803  ;  topic.acq  
+acquire acquisition add agree agreement also american analyst announce annual
+ Cluster k =  3  Size =  1058  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  4  Size =  539  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  5  Size =  1581  ;  topic.earn  
+avg bank billion company dlrs end gain include last loss
+Cluster Sizes at k =  5 
+3402 2803 1058 539 1581
+In between-ness =  1617.522
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  6
+ Cluster k =  1  Size =  1095  ;  topic.money.fx  
+add agreement also around average bank bill billion bundesbank central
+ Cluster k =  2  Size =  2135  ;  topic.acq  
+acquire acquisition agree agreement also american analyst approval april asset
+ Cluster k =  3  Size =  1216  ;  topic.earn  
+also bank barrel billion business cash company compare corp cost
+ Cluster k =  4  Size =  529  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  5  Size =  2236  ;  topic.earn  
+avg billion company discontinue dlr dlrs end gain include includes
+ Cluster k =  6  Size =  2172  ;  topic.grain  
+accord action add administration agree agreement agriculture also american analyst
+Cluster Sizes at k =  6 
+1095 2135 1216 529 2236 2172
+In between-ness =  1639.383
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  7
+ Cluster k =  1  Size =  532  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  2  Size =  1976  ;  topic.acq  
+acquire acquisition agree agreement also american analyst approval april bid
+ Cluster k =  3  Size =  717  ;  topic.grain  
+agriculture corn crop department dlrs estimate export grain import last
+ Cluster k =  4  Size =  1432  ;  topic.earn  
+avg bank billion dlrs gain include loss mln mths net
+ Cluster k =  5  Size =  1024  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  6  Size =  2555  ;  topic.money.fx  
+accord account action add administration agree agreement agriculture also american
+ Cluster k =  7  Size =  1147  ;  topic.earn  
+acquisition also asset bank barrel billion business cash company corp
+Cluster Sizes at k =  7 
+532 1976 717 1432 1024 2555 1147
+In between-ness =  1856.552
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  8
+ Cluster k =  1  Size =  759  ;  topic.grain  
+agriculture corn crop department dlrs estimate export grain import last
+ Cluster k =  2  Size =  217  ;  topic.earn  
+april div eight june may one pay prior qtly qtr
+ Cluster k =  3  Size =  358  ;  topic.earn  
+april div dividend march pay payable prior qtly record reuter
+ Cluster k =  4  Size =  1445  ;  topic.earn  
+avg billion company dlrs end gain include loss mln mths
+ Cluster k =  5  Size =  1951  ;  topic.crude  
+accord action add administration agree agreement agriculture also american analyst
+ Cluster k =  6  Size =  2650  ;  topic.acq  
+acquire acquisition add agree agreement also american analyst announce annual
+ Cluster k =  7  Size =  1018  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  8  Size =  985  ;  topic.interest  
+add also around bank bill billion central currency cut day
+Cluster Sizes at k =  8 
+759 217 358 1445 1951 2650 1018 985
+In between-ness =  1879.491
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  9
+ Cluster k =  1  Size =  958  ;  topic.earn  
+also bank billion company corp cost dlr dlrs earnings end
+ Cluster k =  2  Size =  688  ;  topic.interest  
+around bank bill billion bundesbank central currency cut day dealer
+ Cluster k =  3  Size =  978  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  4  Size =  1991  ;  topic.trade  
+accord action add administration agree agreement agriculture also american analyst
+ Cluster k =  5  Size =  635  ;  topic.grain  
+agriculture corn crop department estimate export grain last maize mln
+ Cluster k =  6  Size =  1292  ;  topic.earn  
+avg billion dlrs gain include loss mln mths net nine
+ Cluster k =  7  Size =  964  ;  topic.acq  
+acquire also april bid board buy cash common company corp
+ Cluster k =  8  Size =  533  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  9  Size =  1344  ;  topic.acq  
+acquire acquisition agree agreement also american board business company complete
+Cluster Sizes at k =  9 
+958 688 978 1991 635 1292 964 533 1344
+In between-ness =  2049.616
+Total SS  =  7718.03
+
+
+
+Performing clustering with K=  10
+ Cluster k =  1  Size =  958  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  2  Size =  897  ;  topic.interest  
+bank bill billion central cut day dlrs early expect february
+ Cluster k =  3  Size =  1082  ;  topic.crude  
+add agriculture also area attack barrel billion bpd company corn
+ Cluster k =  4  Size =  841  ;  topic.trade  
+accord add agree agreement also analyst around baker bank billion
+ Cluster k =  5  Size =  819  ;  topic.earn  
+also bank billion company corp dlrs earnings end expect first
+ Cluster k =  6  Size =  1381  ;  topic.acq  
+acquire acquisition agree agreement also american asset board business company
+ Cluster k =  7  Size =  535  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  8  Size =  659  ;  topic.grain  
+agriculture corn crop department estimate export grain import last maize
+ Cluster k =  9  Size =  976  ;  topic.acq  
+acquire also april bid board buy cash common company corp
+ Cluster k =  10  Size =  1235  ;  topic.earn  
+avg billion dlrs loss mln mths net nine note oper
+Cluster Sizes at k =  10 
+958 897 1082 841 819 1381 535 659 976 1235
+In between-ness =  2112.805
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  11
+ Cluster k =  1  Size =  1835  ;  topic.acq  
+acquire acquisition agree agreement also american approval april bid board
+ Cluster k =  2  Size =  1257  ;  topic.trade  
+accord action add agree agreement agriculture also analyst area around
+ Cluster k =  3  Size =  520  ;  topic.earn  
+april div june march may one pay payable prior qtly
+ Cluster k =  4  Size =  1040  ;  topic.earn  
+acquisition also asset bank billion business cash company corp dlr
+ Cluster k =  5  Size =  996  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  6  Size =  523  ;  topic.grain  
+agriculture corn grain mln nil price reuter say total wheat
+ Cluster k =  7  Size =  1312  ;  topic.earn  
+avg billion dlrs gain include loss mln mths net nine
+ Cluster k =  8  Size =  748  ;  topic.interest  
+bank billion central cut day dlrs dollar expect february fed
+ Cluster k =  9  Size =  485  ;  topic.crude  
+also barrel bpd company crude dlrs gas last mln official
+ Cluster k =  10  Size =  474  ;  topic.grain  
+corn crop department estimate export grain last maize mln pct
+ Cluster k =  11  Size =  193  ;  topic.money.fx  
+bank bill england market mln money pct reuter say stg
+Cluster Sizes at k =  11 
+1835 1257 520 1040 996 523 1312 748 485 474 193
+In between-ness =  2160.835
+Total SS  =  7718.03
+
+
+
+Performing clustering with K=  12
+ Cluster k =  1  Size =  680  ;  topic.interest  
+add bank billion bundesbank central cut day dlrs dollar exchange
+ Cluster k =  2  Size =  949  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  3  Size =  1158  ;  topic.earn  
+avg billion dlrs loss mln mths net nine note oper
+ Cluster k =  4  Size =  1352  ;  topic.acq  
+acquire acquisition agree agreement also american board business company complete
+ Cluster k =  5  Size =  961  ;  topic.acq  
+acquire also april board buy cash common company corp dividend
+ Cluster k =  6  Size =  246  ;  topic.earn  
+billion dlrs mln net pct profit reuter say shr surplus
+ Cluster k =  7  Size =  655  ;  topic.grain  
+agriculture corn crop department estimate export grain last maize may
+ Cluster k =  8  Size =  466  ;  topic.crude  
+also barrel bpd company crude dlrs gas last market mln
+ Cluster k =  9  Size =  537  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  10  Size =  798  ;  topic.earn  
+also bank billion company corp dlrs earnings end expect first
+ Cluster k =  11  Size =  1390  ;  topic.trade  
+accord action add administration agree agreement agriculture also analyst april
+ Cluster k =  12  Size =  191  ;  topic.money.fx  
+bank bill england market mln money pct reuter say stg
+Cluster Sizes at k =  12 
+680 949 1158 1352 961 246 655 466 537 798 1390 191
+In between-ness =  2263.53
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  13
+ Cluster k =  1  Size =  1049  ;  topic.earn  
+avg billion dlrs loss mln mths net nine note profit
+ Cluster k =  2  Size =  183  ;  topic.money.fx  
+bank bill england market mln money pct reuter say stg
+ Cluster k =  3  Size =  877  ;  topic.earn  
+also bank billion business cash company corp dlrs earnings end
+ Cluster k =  4  Size =  537  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  5  Size =  929  ;  topic.acq  
+acquire also april board buy cash common company corp dividend
+ Cluster k =  6  Size =  773  ;  topic.earn  
+avg dlrs gain include loss mln mths net nine note
+ Cluster k =  7  Size =  535  ;  topic.grain  
+agriculture corn crop department estimate export grain last maize mln
+ Cluster k =  8  Size =  132  ;  topic.corn  
+acre corn department may mln price program reuter say tonne
+ Cluster k =  9  Size =  834  ;  topic.trade  
+accord add agree agreement also analyst baker bank billion central
+ Cluster k =  10  Size =  994  ;  topic.crude  
+agriculture also area attack barrel billion bpd company country crude
+ Cluster k =  11  Size =  1249  ;  topic.acq  
+acquire acquisition agreement also american board business company corp dlrs
+ Cluster k =  12  Size =  532  ;  topic.earn  
+avg dlrs mln net note oper reuter revs shr shrs
+ Cluster k =  13  Size =  759  ;  topic.interest  
+bank billion central cut day dlrs dollar expect february fed
+Cluster Sizes at k =  13 
+1049 183 877 537 929 773 535 132 834 994 1249 532 759
+In between-ness =  2330.143
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  14
+ Cluster k =  1  Size =  247  ;  topic.earn  
+billion dlrs mark mln net pct reuter rise say surplus
+ Cluster k =  2  Size =  188  ;  topic.money.fx  
+bank bill england market mln money pct reuter say stg
+ Cluster k =  3  Size =  915  ;  topic.acq  
+acquire also april board buy cash common company corp dividend
+ Cluster k =  4  Size =  856  ;  topic.trade  
+accord add agree agreement also baker bank billion central country
+ Cluster k =  5  Size =  604  ;  topic.interest  
+bank billion central cut dlrs dollar expect fund government high
+ Cluster k =  6  Size =  509  ;  topic.earn  
+avg dlrs loss mln net note profit reuter revs shr
+ Cluster k =  7  Size =  1168  ;  topic.acq  
+acquire acquisition agreement also american board business company corp dlrs
+ Cluster k =  8  Size =  797  ;  topic.crude  
+also attack barrel billion bpd company crude day dlrs gas
+ Cluster k =  9  Size =  535  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  10  Size =  372  ;  topic.earn  
+dlrs loss mln net note oper profit reuter revs shr
+ Cluster k =  11  Size =  891  ;  topic.earn  
+acquisition also bank billion business cash company corp cost dlrs
+ Cluster k =  12  Size =  1003  ;  topic.earn  
+avg billion dlrs loss mln mths net nine note profit
+ Cluster k =  13  Size =  453  ;  topic.earn  
+dlrs gain loss mln net nine note oper profit reuter
+ Cluster k =  14  Size =  845  ;  topic.grain  
+agriculture april corn crop department dlrs estimate export grain import
+Cluster Sizes at k =  14 
+247 188 915 856 604 509 1168 797 535 372 891 1003 453 845
+In between-ness =  2388.308
+Total SS  =  7718.03
+
+
+
+
+Performing clustering with K=  15
+ Cluster k =  1  Size =  841  ;  topic.acq  
+acquire also april board buy common company corp dividend dlrs
+ Cluster k =  2  Size =  508  ;  topic.earn  
+avg dlrs mln net note oper reuter revs shr shrs
+ Cluster k =  3  Size =  481  ;  topic.grain  
+corn grain mln nil price program reuter say total wheat
+ Cluster k =  4  Size =  899  ;  topic.acq  
+acquisition agreement also analyst billion board business company corp dlrs
+ Cluster k =  5  Size =  356  ;  topic.earn  
+dlrs loss mln net note oper profit reuter revs shr
+ Cluster k =  6  Size =  182  ;  topic.money.fx  
+bank bill england market mln money pct reuter say stg
+ Cluster k =  7  Size =  254  ;  topic.earn  
+billion dlrs mln net pct reuter rise say shr surplus
+ Cluster k =  8  Size =  718  ;  topic.interest  
+add also bank billion bundesbank central currency cut day dealer
+ Cluster k =  9  Size =  472  ;  topic.grain  
+corn crop department estimate export grain last maize mln pct
+ Cluster k =  10  Size =  528  ;  topic.earn  
+april div march may one pay payable prior qtly record
+ Cluster k =  11  Size =  1369  ;  topic.crude  
+accord action add administration agree agreement agriculture also analyst area
+ Cluster k =  12  Size =  985  ;  topic.earn  
+avg billion dlrs loss mln mths net nine note profit
+ Cluster k =  13  Size =  804  ;  topic.earn  
+also bank billion business company corp dlrs earnings end expect
+ Cluster k =  14  Size =  562  ;  topic.acq  
+acquire acquisition company corp dlrs inc mln reuter sale say
+ Cluster k =  15  Size =  424  ;  topic.earn  
+dlrs loss mln net note oper profit reuter revs shr
+Cluster Sizes at k =  15 
+841 508 481 899 356 182 254 718 472 528 1369 985 804 562 424
+In between-ness =  2440.455
+Total SS  =  7718.03
